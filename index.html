@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz de Medicina - Simulado Online</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="quiz-container">
+        <h1>Simulado de Saúde Pública - Segunda Parcial</h1>
+        
+        <div id="quiz" class="hide">
+            <div id="question-header">
+                <h2 id="question-text">Texto da Pergunta</h2>
+                <div id="question-counter"></div>
+            </div>
+            <div id="answer-buttons" class="btn-grid"></div>
+             <div id="controls">
+                <button id="next-btn" class="next-btn btn hide">Próximo</button>
+            </div>
+        </div>
+
+        <div id="start-screen">
+             <div id="start-controls" style="display: flex; justify-content: center;">
+                <button id="start-btn" class="start-btn btn">Começar</button>
+            </div>
+        </div>
+
+        <div id="results-container" class="hide">
+            <h2>Resultado do Simulado</h2>
+            <p style="text-align: center; font-size: 1.2rem;">Você acertou <strong id="score">0</strong> de <strong id="total-questions">0</strong> perguntas.</p>
+            <hr>
+            <h3>Revisão das Respostas:</h3>
+            <div id="detailed-results"></div>
+             <div id="restart-controls" style="display: flex; justify-content: center; margin-top: 20px;">
+                <button id="restart-btn" class="btn">Tentar Novamente</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="quiz.js"></script>
+</body>
+</html>

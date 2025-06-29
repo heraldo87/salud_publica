@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "area": "Cardiologia",
+    "pergunta": "Qual das seguintes artérias é mais comumente afetada na doença arterial coronariana?",
+    "opcoes": [
+      "Artéria descendente anterior esquerda (DAE)",
+      "Artéria circunflexa",
+      "Artéria coronária direita",
+      "Tronco da coronária esquerda"
+    ],
+    "respostaCorreta": "Artéria descendente anterior esquerda (DAE)",
+    "explicacao": "A DAE, também conhecida como 'artéria da viúva', é a mais comumente envolvida em infartos do miocárdio devido à sua importância na irrigação do ventrículo esquerdo."
+  },
+  {
+    "id": 2,
+    "area": "Farmacologia",
+    "pergunta": "Qual é o principal mecanismo de ação dos beta-bloqueadores?",
+    "opcoes": [
+      "Bloqueio dos canais de cálcio",
+      "Antagonismo competitivo dos receptores beta-adrenérgicos",
+      "Inibição da enzima conversora de angiotensina (ECA)",
+      "Aumento da excreção de sódio pelos rins"
+    ],
+    "respostaCorreta": "Antagonismo competitivo dos receptores beta-adrenérgicos",
+    "explicacao": "Beta-bloqueadores, como o propranolol e o metoprolol, atuam bloqueando os efeitos do sistema nervoso simpático nos receptores beta, reduzindo a frequência cardíaca e a pressão arterial."
+  },
+  {
+    "id": 3,
+    "area": "Anatomia",
+    "pergunta": "O Forame Magno é uma abertura localizada em qual osso do crânio?",
+    "opcoes": [
+      "Osso frontal",
+      "Osso parietal",
+      "Osso temporal",
+      "Osso occipital"
+    ],
+    "respostaCorreta": "Osso occipital",
+    "explicacao": "O Forame Magno é a grande abertura na base do osso occipital através da qual a medula espinhal se conecta ao tronco cerebral."
+  },
+  {
+    "id": 4,
+    "area": "Fisiologia",
+    "pergunta": "Qual hormônio, produzido pelo pâncreas, é responsável por reduzir os níveis de glicose no sangue?",
+    "opcoes": [
+      "Glucagon",
+      "Insulina",
+      "Somatostatina",
+      "Adrenalina"
+    ],
+    "respostaCorreta": "Insulina",
+    "explicacao": "A insulina facilita a absorção de glicose pelas células do corpo, principalmente nos músculos, fígado e tecido adiposo, diminuindo sua concentração na corrente sanguínea."
+  },
+  {
+    "id": 5,
+    "area": "Microbiologia",
+    "pergunta": "Qual bactéria é a principal causa de úlceras pépticas?",
+    "opcoes": [
+      "Escherichia coli",
+      "Staphylococcus aureus",
+      "Helicobacter pylori",
+      "Streptococcus pneumoniae"
+    ],
+    "respostaCorreta": "Helicobacter pylori",
+    "explicacao": "A H. pylori é uma bactéria que infecta o estômago e está fortemente associada ao desenvolvimento de gastrite, úlceras pépticas e até mesmo câncer gástrico."
+  }
+]
