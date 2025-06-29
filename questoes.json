@@ -1,236 +1,1237 @@
 [
   {
-    "id": 13,
-    "area": "Gestión de RRHH",
-    "pergunta": "Dentro de los procesos de gestión de RRHH, ¿qué subproceso es fundamental para asegurar que las competencias de los trabajadores se alineen con los objetivos de la organización, más allá de la capacitación inicial?",
+    "id": 1,
+    "area": "Módulo de Información Básica",
+    "pergunta": "¿Cuál es el instrumento de sistematización oficial implementado por el SNIS y codificado como registro administrativo por el INE?",
     "opcoes": [
-      "Reclutamiento de personal.",
-      "Desarrollo de las organizaciones.",
-      "Remuneración y beneficios.",
-      "Diseño de ocupación y cargos."
+      "Historia clínica.",
+      "Encuesta poblacional.",
+      "Cuadernos de registro.",
+      "Reporte financiero."
     ],
-    "respostaCorreta": "Desarrollo de las organizaciones.",
-    "explicacao": "El 'Desarrollo de las organizaciones' es un subproceso del Desarrollo de RRHH que busca potenciar al máximo las capacidades de los individuos en beneficio de la organización, asegurando un crecimiento y adaptación continuos más allá del entrenamiento inicial."
+    "respostaCorreta": "Cuadernos de registro.",
+    "explicacao": "Los cuadernos de registro son los instrumentos de sistematización oficiales implementados por el SNIS y codificados como registros administrativos por el INE. :contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "id": 2,
+    "area": "Módulo de Información Básica",
+    "pergunta": "¿Cuál es el objetivo principal del Módulo de Información Básica (MIB) según la presentación?",
+    "opcoes": [
+      "Mejorar el acceso y la atención adecuada a la población boliviana.",
+      "Registrar datos financieros de los establecimientos.",
+      "Capacitar al personal en nuevas tecnologías.",
+      "Elaborar perfiles epidemiológicos de manera independiente."
+    ],
+    "respostaCorreta": "Mejorar el acceso y la atención adecuada a la población boliviana.",
+    "explicacao": "El MIB busca generar datos para la toma de decisiones locales y contribuir al mejoramiento continuo del acceso y la atención adecuada a la población boliviana. :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "id": 3,
+    "area": "Módulo de Información Básica",
+    "pergunta": "¿Para qué niveles de atención en salud está diseñado el MIB?",
+    "opcoes": [
+      "Solo primer nivel.",
+      "Primer y segundo nivel.",
+      "Tercer nivel y atención especializada.",
+      "Solo centros de salud integrales."
+    ],
+    "respostaCorreta": "Primer y segundo nivel.",
+    "explicacao": "El MIB está diseñado para sistematizar información anual de establecimientos de salud de 1er y 2do nivel de atención. :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "id": 4,
+    "area": "Módulo de Información Básica",
+    "pergunta": "¿Cuál es la fecha límite para completar y enviar la información del MIB cada gestión?",
+    "opcoes": [
+      "Final del año de la gestión.",
+      "Primer trimestre de la gestión.",
+      "Segundo semestre.",
+      "Inicio de la siguiente gestión."
+    ],
+    "respostaCorreta": "Primer trimestre de la gestión.",
+    "explicacao": "La información del MIB debe llenarse anualmente y enviarse hasta el primer trimestre de cada gestión. :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "id": 5,
+    "area": "Módulo de Información Básica",
+    "pergunta": "¿Cuál es el orden correcto en el flujo de información del MIB según el nivel de atención?",
+    "opcoes": [
+      "Centro de salud integral → Centro con internación → Centro ambulatorio → Puesto de salud.",
+      "Puesto de salud → Centro de salud ambulatorio → Centro de salud con internación → Centro de salud integral.",
+      "Centro ambulatorio → Puesto de salud → Centro integral → Centro con internación.",
+      "Club médico → Hospital regional → SEDES → SNIS-VE."
+    ],
+    "respostaCorreta": "Puesto de salud → Centro de salud ambulatorio → Centro de salud con internación → Centro de salud integral.",
+    "explicacao": "El flujo de la información sigue el orden: puesto de salud, centro de salud ambulatorio, centro de salud con internación y centro de salud integral. :contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "id": 6,
+    "area": "Módulo de Información Básica",
+    "pergunta": "¿A quién deben enviar manualmente el instrumento del MIB los establecimientos que no disponen de equipo de cómputo?",
+    "opcoes": [
+      "Ministerio de Salud.",
+      "SNIS-VE directamente.",
+      "Cabecera de la red municipal de salud o red de servicios de salud.",
+      "Instituto Nacional de Estadística."
+    ],
+    "respostaCorreta": "Cabecera de la red municipal de salud o red de servicios de salud.",
+    "explicacao": "Los establecimientos sin equipo de cómputo deben entregar el instrumento manualmente a la cabecera de la red municipal de salud o en su defecto a la red de servicios de salud. :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "id": 7,
+    "area": "Módulo de Información Básica",
+    "pergunta": "¿Qué instancia consolida la información antes de enviarla al SNIS-VE del SEDES respectivo?",
+    "opcoes": [
+      "Coordinación de red.",
+      "Dirección Nacional de Salud.",
+      "Ministerio de Planificación.",
+      "Instituto Nacional de Estadística."
+    ],
+    "respostaCorreta": "Coordinación de red.",
+    "explicacao": "La información es consolidada por la coordinación de red antes de enviarse al SNIS-VE del SEDES respectivo. :contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "id": 8,
+    "area": "Módulo de Información Básica",
+    "pergunta": "¿Con qué frecuencia se registra la información en el MIB?",
+    "opcoes": [
+      "Mensualmente.",
+      "Una vez al año.",
+      "Cada semestre.",
+      "Cada dos años."
+    ],
+    "respostaCorreta": "Una vez al año.",
+    "explicacao": "La información del MIB se registra una vez al año. :contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "id": 9,
+    "area": "Módulo de Información Básica",
+    "pergunta": "¿Qué tipo de datos recogen los instrumentos de capacitación según la presentación?",
+    "opcoes": [
+      "Datos financieros y administrativos.",
+      "Datos clínicos y sociodemográficos.",
+      "Datos de infraestructura.",
+      "Datos de personal."
+    ],
+    "respostaCorreta": "Datos clínicos y sociodemográficos.",
+    "explicacao": "Los instrumentos de capacitación recogen información clínica y sociodemográfica de cada paciente. :contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "id": 10,
+    "area": "Módulo de Información Básica",
+    "pergunta": "¿Cuál de los siguientes es un ejemplo de instrumento de capacitación mencionado?",
+    "opcoes": [
+      "Cuaderno de registro.",
+      "Carnet de vacunación.",
+      "Formato de transferencia SNIS-VE.",
+      "Instrumento de solicitud de apertura."
+    ],
+    "respostaCorreta": "Carnet de vacunación.",
+    "explicacao": "El carnet de vacunación es un ejemplo de instrumento de capacitación destinado al registro de datos clínicos y sociodemográficos. :contentReference[oaicite:9]{index=9}"
+  },
+  {
+    "id": 11,
+    "area": "Módulo de Información Básica",
+    "pergunta": "¿Qué característica distingue a los instrumentos destinados al acopio continuo de datos?",
+    "opcoes": [
+      "Registran datos una vez al año.",
+      "Permiten obtener datos estadísticos al final de periodos definidos.",
+      "Solo captan datos cualitativos.",
+      "Se usan únicamente en centros integrales."
+    ],
+    "respostaCorreta": "Permiten obtener datos estadísticos al final de periodos definidos.",
+    "explicacao": "Los instrumentos de acopio continuo de datos captan información clínica y estadística durante periodos definidos para generar datos estadísticos al final de dichos periodos. :contentReference[oaicite:10]{index=10}"
+  },
+  {
+    "id": 12,
+    "area": "Módulo de Información Básica",
+    "pergunta": "¿Cómo se codifican los instrumentos de sistematización oficiales del SNIS según el INE?",
+    "opcoes": [
+      "Encuestas de población.",
+      "Registros administrativos.",
+      "Bases de datos en línea.",
+      "Reportes financieros."
+    ],
+    "respostaCorreta": "Registros administrativos.",
+    "explicacao": "Los instrumentos de sistematización oficiales del SNIS son codificados como registros administrativos por el INE. :contentReference[oaicite:11]{index=11}"
+  },
+  {
+    "id": 13,
+    "area": "Módulo de Información Básica",
+    "pergunta": "¿Para qué sirve la herramienta informática mencionada en la presentación?",
+    "opcoes": [
+      "Analizar datos financieros.",
+      "Monitorizar el desempeño del personal.",
+      "Recopilar y consolidar información por establecimiento de salud.",
+      "Capacitar al personal médico."
+    ],
+    "respostaCorreta": "Recopilar y consolidar información por establecimiento de salud.",
+    "explicacao": "La herramienta informática recopila toda la información por establecimiento de salud y la consolida a nivel de coordinación de red, SEDES y nivel nacional. :contentReference[oaicite:12]{index=12}"
   },
   {
     "id": 14,
-    "area": "Gerencia de RRHH",
-    "pergunta": "Según el enfoque de gestión de servicios de salud, ¿cuál es la principal desventaja de organizar la oferta de servicios basándose exclusivamente en la 'demanda directa' de los usuarios?",
+    "area": "Módulo de Información Básica",
+    "pergunta": "¿Cuál es el valor estratégico de la herramienta informática en la construcción de perfiles epidemiológicos?",
     "opcoes": [
-      "Reduce la participación comunitaria en la planificación.",
-      "Es más costoso en términos de infraestructura y tecnología.",
-      "Crea problemas de eficiencia y equidad, al estar influenciada por factores socioeconómicos.",
-      "Requiere una mayor cantidad de personal especializado."
+      "Gestionar los recursos económicos del SEDES.",
+      "Proporcionar información consolidada de cada región para la toma de acciones.",
+      "Registrar historiales médicos electrónicos.",
+      "Supervisar el cumplimiento de normativas internacionales."
     ],
-    "respostaCorreta": "Crea problemas de eficiencia y equidad, al estar influenciada por factores socioeconómicos.",
-    "explicacao": "La organización por demanda es sensible a factores como el nivel de ingreso, educación y estatus social, lo que puede llevar a una distribución inequitativa de los recursos, atendiendo más a quienes pueden 'demandar' que a quienes más lo 'necesitan', afectando la eficiencia y equidad del sistema."
+    "respostaCorreta": "Proporcionar información consolidada de cada región para la toma de acciones.",
+    "explicacao": "La herramienta informática lanza información consolidada que es de gran valor en la construcción de perfiles epidemiológicos de cada región y en la toma de acciones. :contentReference[oaicite:13]{index=13}"
   },
   {
     "id": 15,
-    "area": "Factores de Riesgo",
-    "pergunta": "Un individuo con predisposición genética al cáncer (factor no modificable) adopta un estilo de vida sedentario y una dieta alta en grasas. ¿Cómo se clasificaría correctamente esta combinación de factores?",
+    "area": "Módulo de Información Básica",
+    "pergunta": "¿En qué categoría de instrumentos del SNIS se incluye el MIB?",
     "opcoes": [
-      "Como un riesgo exclusivamente genético, ya que es el factor primario.",
-      "Como la interacción de un factor de riesgo genético con factores de riesgo culturales y sociales modificables.",
-      "Como un factor de riesgo ambiental, ya que la dieta y el sedentarismo son externos.",
-      "Como un factor de riesgo omnipresente y, por lo tanto, imposible de mitigar."
+      "Instrumentos de capacitación.",
+      "Instrumentos de solicitud de apertura.",
+      "Instrumentos de sistematización.",
+      "Herramientas informáticas."
     ],
-    "respostaCorreta": "Como la interacción de un factor de riesgo genético con factores de riesgo culturales y sociales modificables.",
-    "explicacao": "La situación describe la sinergia entre una predisposición hereditaria (genético) y hábitos de vida (culturales/sociales) que son modificables. La presencia de la predisposición genética aumenta el impacto negativo de los otros factores de riesgo."
+    "respostaCorreta": "Instrumentos de sistematización.",
+    "explicacao": "El MIB se incluye dentro de los instrumentos de sistematización, ya que está diseñado para sistematizar información sectorial y extrasectorial anualmente. :contentReference[oaicite:14]{index=14}"
+  },
+  {
+    "id": 11,
+    "area": "Información de Recursos Humanos",
+    "pergunta": "¿Cuál es la fuente de información para el subsector público en la sistematización de Recursos Humanos?",
+    "opcoes": [
+      "Encuesta poblacional.",
+      "Planilla presupuestaria.",
+      "SNIS-VE.",
+      "Base de datos clínica."
+    ],
+    "respostaCorreta": "Planilla presupuestaria.",
+    "explicacao": "La información del subsector público se obtiene de la planilla presupuestaria. :contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "id": 12,
+    "area": "Información de Recursos Humanos",
+    "pergunta": "¿Cómo se denomina el software utilizado para ingresar y gestionar la información de Recursos Humanos?",
+    "opcoes": [
+      "SNIS-VE.",
+      "SORHE.",
+      "SEDES-VE.",
+      "MINSA-RRHH."
+    ],
+    "respostaCorreta": "SORHE.",
+    "explicacao": "El software SORHE es la herramienta donde se introduce la información de RRHH de cada establecimiento. :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "id": 13,
+    "area": "Información de Recursos Humanos",
+    "pergunta": "¿Cuál es el primer filtro de revisión en el flujo de información de RRHH?",
+    "opcoes": [
+      "SEDES.",
+      "Coordinación de Red.",
+      "SNIS-VE Nacional.",
+      "Ministerio de Salud."
+    ],
+    "respostaCorreta": "Coordinación de Red.",
+    "explicacao": "La Coordinación de Red actúa como primer filtro de revisión tras la introducción de datos en SORHE. :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "id": 14,
+    "area": "Información de Recursos Humanos",
+    "pergunta": "Ordene correctamente las siguientes etapas del flujo de información de RRHH tras su ingreso al software SORHE: (1) Coordinación de Red, (2) Unidad SNIS-VE Local, (3) SEDES, (4) Unidad SNIS-VE Nacional.",
+    "opcoes": [
+      "1 → 3 → 2 → 4",
+      "3 → 1 → 2 → 4",
+      "1 → 2 → 3 → 4",
+      "2 → 1 → 3 → 4"
+    ],
+    "respostaCorreta": "1 → 3 → 2 → 4",
+    "explicacao": "El orden es: Coordinación de Red → SEDES → Unidad SNIS-VE Local → Unidad SNIS-VE Nacional. :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "id": 15,
+    "area": "Información de Recursos Humanos",
+    "pergunta": "¿Con qué frecuencia debe actualizarse la información de Recursos Humanos según la presentación?",
+    "opcoes": [
+      "Mensual.",
+      "Trimestral.",
+      "Semestral.",
+      "Anual."
+    ],
+    "respostaCorreta": "Trimestral.",
+    "explicacao": "La información debe actualizarse cada tres meses en establecimientos y SEDES. :contentReference[oaicite:4]{index=4}"
   },
   {
     "id": 16,
-    "area": "Hipertensión Arterial",
-    "pergunta": "Un paciente presenta cifras de PA de 150/95 mmHg en la consulta, pero su MAPA de 24 horas revela un promedio de 160/100 mmHg durante su jornada laboral y 115/75 mmHg en su hogar y durante el sueño. ¿Cuál es el diagnóstico más preciso?",
+    "area": "Información de Recursos Humanos",
+    "pergunta": "¿Durante la transferencia al SEDES, qué acción se realiza con la información recopilada?",
     "opcoes": [
-      "Hipertensión de bata blanca.",
-      "Hipertensión enmascarada.",
-      "Hipertensión arterial grado 1, sin complicaciones.",
-      "Hipertensión arterial refractaria."
+      "Se consolida a nivel nacional.",
+      "Se compara con la base de datos de RRHH del SEDES.",
+      "Se envía directamente al Ministerio de Salud.",
+      "Se ingresa al software SORHE."
     ],
-    "respostaCorreta": "Hipertensión enmascarada.",
-    "explicacao": "La hipertensión enmascarada se caracteriza por cifras de PA normales (o subestimadas) en la consulta, pero elevadas fuera del entorno sanitario, como lo demuestra el MAPA durante la jornada laboral. No es 'bata blanca' porque la presión en consulta también está alta, pero el MAPA revela una situación más grave fuera de ella."
+    "respostaCorreta": "Se compara con la base de datos de RRHH del SEDES.",
+    "explicacao": "En SEDES se compara la información recopilada con su propia base de datos de RRHH. :contentReference[oaicite:5]{index=5}"
   },
   {
     "id": 17,
-    "area": "Diagnóstico de Hipertensión",
-    "pergunta": "En un paciente con HTA grado 2, ¿cuál de los siguientes hallazgos en los exámenes complementarios indicaría un 'daño orgánico subclínico' establecido, justificando un inicio más agresivo del tratamiento?",
+    "area": "Información de Recursos Humanos",
+    "pergunta": "¿Cuál es la última instancia receptora antes de que la información consolidada de RRHH sea transferida a la unidad de Recursos Humanos del Ministerio de Salud?",
     "opcoes": [
-      "Niveles de colesterol total de 210 mg/dL.",
-      "Un electrocardiograma (ECG) que muestra hipertrofia del ventrículo izquierdo.",
-      "Un índice de masa corporal (IMC) de 28.",
-      "Antecedentes familiares de enfermedad cardiovascular."
+      "Coordinación de Red.",
+      "SEDES.",
+      "Unidad SNIS-VE Local.",
+      "Unidad SNIS-VE Nacional."
     ],
-    "respostaCorreta": "Un electrocardiograma (ECG) que muestra hipertrofia del ventrículo izquierdo.",
-    "explicacao": "La hipertrofia del ventrículo izquierdo, visible en un ECG, es una clara evidencia de que la hipertensión ya ha causado un daño estructural en el corazón (órgano diana), aunque el paciente no presente síntomas de insuficiencia cardíaca. Esto clasifica al paciente en un riesgo cardiovascular más alto."
+    "respostaCorreta": "Unidad SNIS-VE Nacional.",
+    "explicacao": "La Unidad SNIS-VE Nacional recibe la información antes de la transferencia final al Ministerio de Salud. :contentReference[oaicite:6]{index=6}"
   },
   {
     "id": 18,
-    "area": "Obesidad",
-    "pergunta": "Una paciente tiene un IMC de 31 kg/m² y la mayor parte de su grasa corporal se acumula en caderas y muslos. ¿Cuál es la implicación clínica más importante de esta distribución de grasa (ginoide)?",
+    "area": "Información de Recursos Humanos",
+    "pergunta": "¿Qué alcance tiene la información de Recursos Humanos según el ámbito descrito en la presentación?",
     "opcoes": [
-      "Tiene un riesgo metabólico y cardiovascular significativamente mayor que la obesidad androide.",
-      "La grasa acumulada es metabólicamente más activa y fácil de eliminar con dieta.",
-      "Aunque el riesgo de diabetes es menor que en la obesidad androide, está más asociada a problemas de várices y vesícula biliar.",
-      "Indica una causa de obesidad secundaria, probablemente hormonal."
+      "Solo sector público.",
+      "Solo sector privado.",
+      "Sector público, privado y subsectores.",
+      "Solo subsector público."
     ],
-    "respostaCorreta": "Aunque el riesgo de diabetes es menor que en la obesidad androide, está más asociada a problemas de várices y vesícula biliar.",
-    "explicacao": "La obesidad ginoide ('tipo pera') tiene un menor riesgo metabólico (diabetes, HTA) en comparación con la androide ('manzana'), pero se asocia con otras comorbilidades como insuficiencia venosa (várices) y cálculos biliares. Además, esta grasa es menos activa y más difícil de movilizar."
+    "respostaCorreta": "Sector público, privado y subsectores.",
+    "explicacao": "La información abarca todos los establecimientos de salud de sector público, privado y subsectores. :contentReference[oaicite:7]{index=7}"
   },
   {
     "id": 19,
-    "area": "Diagnóstico de Diabetes",
-    "pergunta": "Un paciente asintomático de 45 años con obesidad presenta una glucemia en ayunas de 118 mg/dL. Una semana después, se realiza una HbA1c que resulta en 6.1%. ¿Cuál es el diagnóstico y el paso a seguir según los criterios de la ADA?",
+    "area": "Información de Recursos Humanos",
+    "pergunta": "¿Cuál es la función principal del software SORHE en la gestión de RRHH?",
     "opcoes": [
-      "Diabetes Mellitus tipo 2; se debe iniciar tratamiento con metformina inmediatamente.",
-      "Paciente sano; los valores están por debajo del umbral diabético y se debe repetir en 3 años.",
-      "Prediabetes; se debe iniciar un plan intensivo de cambios en el estilo de vida y realizar seguimiento anual.",
-      "Los resultados son discordantes; se debe realizar una Prueba de Tolerancia Oral a la Glucosa (PTOG) para confirmar."
+      "Consolidar datos a nivel nacional.",
+      "Introducir información por establecimiento.",
+      "Generar reportes financieros.",
+      "Comparar datos con SNIS-VE."
     ],
-    "respostaCorreta": "Prediabetes; se debe iniciar un plan intensivo de cambios en el estilo de vida y realizar seguimiento anual.",
-    "explicacao": "Ambos resultados caen en el rango de prediabetes (Glucemia en ayunas: 100-125 mg/dL; HbA1c: 5.7-6.4%). Al ser consistentes, confirman el diagnóstico de prediabetes. La recomendación principal es la modificación del estilo de vida y un control anual, no el inicio inmediato de farmacoterapia en todos los casos."
+    "respostaCorreta": "Introducir información por establecimiento.",
+    "explicacao": "El software SORHE permite la entrada de datos de RRHH de cada establecimiento. :contentReference[oaicite:8]{index=8}"
   },
   {
     "id": 20,
-    "area": "Glicemia Capilar",
-    "pergunta": "¿Por qué es crucial desechar la primera gota de sangre al realizar una medición de glicemia capilar?",
+    "area": "Información de Recursos Humanos",
+    "pergunta": "¿Cuál de los siguientes NO forma parte del ámbito y alcance de la información de Recursos Humanos según la presentación?",
     "opcoes": [
-      "Porque la primera gota no tiene suficiente volumen para la tira reactiva.",
-      "Para reducir el dolor de la punción en el paciente.",
-      "Porque puede estar contaminada con alcohol o líquido tisular, alterando la precisión del resultado.",
-      "Para asegurar que el glucómetro se calibre correctamente antes de la lectura."
+      "Establecimientos del sector público.",
+      "Establecimientos del sector privado.",
+      "Subsectores de salud.",
+      "Pacientes."
     ],
-    "respostaCorreta": "Porque puede estar contaminada con alcohol o líquido tisular, alterando la precisión del resultado.",
-    "explicacao": "La primera gota de sangre puede contener restos del desinfectante (alcohol) o estar diluida con líquido intersticial, lo que puede dar una lectura falsamente baja o errónea. Desecharla y usar la segunda gota asegura una muestra de sangre capilar pura y una medición más precisa."
+    "respostaCorreta": "Pacientes.",
+    "explicacao": "La información de RRHH no incluye datos de pacientes, sino de personal y establecimientos. :contentReference[oaicite:9]{index=9}"
   },
     {
     "id": 21,
-    "area": "Tratamiento de Hipertensión",
-    "pergunta": "¿En qué situación clínica está absolutamente contraindicado el uso de fármacos IECA (Inhibidores de la Enzima Convertidora de Angiotensina) o ARA II (Antagonistas de los Receptores de Angiotensina II)?",
+    "area": "Gestión de RRHH en Salud",
+    "pergunta": "¿Cuál de las siguientes opciones NO es un proceso de gestión de los RRHH en salud?",
     "opcoes": [
-      "En pacientes con Diabetes Mellitus tipo 2.",
-      "En pacientes con insuficiencia renal crónica.",
-      "En cualquier fase del embarazo.",
-      "En pacientes con hipertensión de bata blanca."
+      "Compensación.",
+      "Mantenimiento y Control.",
+      "Planificación y provisión.",
+      "Desarrollo organizacional."
     ],
-    "respostaCorreta": "En cualquier fase del embarazo.",
-    "explicacao": "Tanto los IECA como los ARA II están contraindicados durante todo el embarazo debido a su potencial toxicidad fetal, pudiendo causar malformaciones, insuficiencia renal neonatal y muerte. En las otras condiciones mencionadas, de hecho, suelen ser fármacos de elección o se usan con precaución."
+    "respostaCorreta": "Mantenimiento y Control.",
+    "explicacao": "La diapositiva indica que los procesos de gestión de RRHH incluyen compensación, planificación y provisión, organización del recurso humano y desarrollo; 'Mantenimiento y Control' no figura en la lista. :contentReference[oaicite:0]{index=0}"
   },
   {
     "id": 22,
-    "area": "Recursos Humanos en Salud",
-    "pergunta": "¿Cuál es la frecuencia establecida para la actualización de la información en el Software de Registro de Recursos Humanos en Salud (SORHE) desde los establecimientos hasta el nivel nacional?",
+    "area": "Gestión de RRHH en Salud",
+    "pergunta": "Según la definición de la presentación, ¿cómo se caracteriza la gestión de los recursos humanos en salud?",
     "opcoes": [
-      "Anualmente, junto con el Módulo de Información Básica (MIB).",
-      "Semestralmente, para coincidir con la planificación de mitad de año.",
-      "Mensualmente, para un control estricto de la planilla.",
-      "Trimestralmente, para mantener una base de datos actualizada del personal."
+      "Proceso sencillo y automatizado.",
+      "Tema central de abordaje difícil.",
+      "Actividad pasajera de bajo impacto.",
+      "Función puramente administrativa."
     ],
-    "respostaCorreta": "Trimestralmente, para mantener una base de datos actualizada del personal.",
-    "explicacao": "La presentación sobre Recursos Humanos especifica que la información debe ser actualizada cada tres meses (trimestralmente) en todos los niveles (establecimiento, red, SEDES) para ser consolidada por el SNIS-VE Nacional."
+    "respostaCorreta": "Tema central de abordaje difícil.",
+    "explicacao": "La diapositiva define la gestión de RRHH en salud como un tema central y de abordaje difícil. :contentReference[oaicite:1]{index=1}"
   },
   {
     "id": 23,
-    "area": "Obesidad y Riesgo",
-    "pergunta": "Un paciente con un IMC de 38 kg/m² no tiene su perímetro abdominal medido, argumentando que no es necesario. ¿Por qué esta afirmación es correcta desde una perspectiva de estratificación del riesgo?",
+    "area": "Gestión de RRHH en Salud",
+    "pergunta": "¿Cuál de estos factores NO se menciona como determinante del éxito de las acciones de salud en términos de organización del trabajo?",
     "opcoes": [
-      "Porque el perímetro abdominal solo es útil en pacientes con sobrepeso.",
-      "Porque con un IMC ≥ 35 kg/m², el paciente ya se clasifica en un riesgo cardiovascular muy alto, y la medición del perímetro no añade mayor poder predictivo.",
-      "Porque la medición es técnicamente muy difícil en pacientes con obesidad mórbida.",
-      "Porque el IMC es una medida directa de la grasa visceral, haciendo innecesaria otra medición."
+      "Cantidad de competencias.",
+      "Combinación de competencias.",
+      "Entretenimiento.",
+      "Estabilidad laboral."
     ],
-    "respostaCorreta": "Porque con un IMC ≥ 35 kg/m², el paciente ya se clasifica en un riesgo cardiovascular muy alto, y la medición del perímetro no añade mayor poder predictivo.",
-    "explicacao": "La presentación sobre obesidad indica que en pacientes con obesidad de clase II (IMC ≥ 35), el riesgo ya es tan elevado que medir el perímetro abdominal no aporta información adicional significativa para la estratificación del riesgo. El paciente ya requiere una intervención intensiva por su grado de obesidad."
+    "respostaCorreta": "Estabilidad laboral.",
+    "explicacao": "La diapositiva lista cantidad de competencias, combinación de competencias, distribución, entretenimiento y condiciones de trabajo; no menciona estabilidad laboral. :contentReference[oaicite:2]{index=2}"
   },
   {
     "id": 24,
-    "area": "Complicaciones de Diabetes",
-    "pergunta": "La aparición de microalbuminuria en un análisis de orina de un paciente diabético es un signo temprano y predictivo de ¿cuál complicación microvascular específica?",
+    "area": "Gestión de RRHH en Salud",
+    "pergunta": "¿Cuál es uno de los objetivos prioritarios de los procesos de reforma en salud actualmente en curso?",
     "opcoes": [
-      "Retinopatía diabética.",
-      "Neuropatía periférica.",
-      "Nefropatía diabética.",
-      "Enfermedad arterial periférica."
+      "Mejora de la accesibilidad.",
+      "Digitalización total de expedientes.",
+      "Reducción de la participación privada.",
+      "Centralización de servicios."
     ],
-    "respostaCorreta": "Nefropatía diabética.",
-    "explicacao": "La microalbuminuria (pequeñas cantidades de albúmina en la orina) es uno de los primeros indicadores de que la diabetes está causando daño en los pequeños vasos sanguíneos de los riñones (glomérulos). Es un marcador clave para el diagnóstico temprano y la intervención en la nefropatía diabética."
+    "respostaCorreta": "Mejora de la accesibilidad.",
+    "explicacao": "La diapositiva sobre reforma en salud menciona como objetivos la mejora de la accesibilidad, la equidad de servicios y la calidad de servicios. :contentReference[oaicite:3]{index=3}"
   },
   {
     "id": 25,
-    "area": "Hipertensión Arterial",
-    "pergunta": "Un paciente de 50 años presenta una PA normal-alta (135/88 mmHg). Sin embargo, tiene 3 factores de riesgo cardiovascular y un ECG que sugiere daño orgánico subclínico (DOS). Según la tabla de estratificación del riesgo, ¿cuál es su nivel de riesgo adicional?",
+    "area": "Gestión de RRHH en Salud",
+    "pergunta": "¿Por qué, según la presentación, las reformas de estructuras no son suficientes en el sector salud?",
     "opcoes": [
-      "Riesgo adicional bajo.",
-      "Riesgo adicional moderado.",
-      "Riesgo adicional alto.",
-      "Riesgo adicional muy alto."
+      "Porque implican costos elevados.",
+      "Porque deben adaptar competencias, conductas y actitudes del prestador de servicios.",
+      "Porque no consideran la tecnología móvil.",
+      "Porque ignoran la participación ciudadana."
     ],
-    "respostaCorreta": "Riesgo adicional alto.",
-    "explicacao": "Según la tabla de la presentación, un paciente con PA normal-alta pero con '3 o más FR, DOS, SM o diabetes' se clasifica con un 'Riesgo adicional alto', lo que justifica un manejo más intensivo y la posible consideración de tratamiento farmacológico inmediato."
+    "respostaCorreta": "Porque deben adaptar competencias, conductas y actitudes del prestador de servicios.",
+    "explicacao": "La diapositiva indica que, además de reformar estructuras, es prioritario adaptar competencias, conductas y actitudes del personal de salud. :contentReference[oaicite:4]{index=4}"
   },
   {
     "id": 26,
-    "area": "Fisiopatología de Diabetes",
-    "pergunta": "Un paciente con Diabetes Tipo 1 reporta hiperglucemia al despertar (250 mg/dL). Para investigar la causa, se mide la glucosa a las 3:00 AM, obteniendo un valor de 60 mg/dL. ¿Qué fenómeno explica mejor este patrón?",
+    "area": "Gestión de RRHH en Salud",
+    "pergunta": "¿Cómo define la diapositiva la administración de recursos humanos en salud?",
     "opcoes": [
-      "Fenómeno del Alba (Dawn Phenomenon).",
-      "Efecto Somogyi.",
-      "Dosis insuficiente de insulina basal.",
-      "Una cena alta en carbohidratos."
+      "Gestión de nóminas y contratos.",
+      "Transformar recursos disponibles en servicios que atiendan efectivamente a necesidades.",
+      "Planificación de la infraestructura hospitalaria.",
+      "Regulación de precios de servicios médicos."
     ],
-    "respostaCorreta": "Efecto Somogyi.",
-    "explicacao": "El efecto Somogyi se caracteriza por una hipoglucemia nocturna (60 mg/dL a las 3 AM) que desencadena una respuesta hormonal de contrarregulación, resultando en una hiperglucemia de rebote por la mañana. El fenómeno del alba no presentaría hipoglucemia previa."
+    "respostaCorreta": "Transformar recursos disponibles en servicios que atiendan efectivamente a necesidades.",
+    "explicacao": "La administración de RRHH consiste en convertir los recursos disponibles en servicios que atiendan de forma efectiva y eficiente las necesidades de individuos y poblaciones. :contentReference[oaicite:5]{index=5}"
   },
   {
     "id": 27,
-    "area": "Gerencia de RRHH",
-    "pergunta": "Un sistema de salud decide enfocar sus recursos en campañas masivas de vacunación y programas de saneamiento en áreas rurales, en lugar de construir más hospitales especializados en la capital. ¿Qué enfoque de organización de servicios está aplicando?",
+    "area": "Gestión de RRHH en Salud",
+    "pergunta": "¿Cuál es el propósito del Desarrollo de Recursos Humanos (DRH) según la presentación?",
     "opcoes": [
-      "Enfoque por demanda.",
-      "Enfoque por necesidades de salud.",
-      "Enfoque curativo individualista.",
-      "Enfoque por rentabilidad financiera."
+      "Supervisar el desempeño financiero.",
+      "Estrategia general de respuesta a necesidades de gestión y gerencia de personal.",
+      "Implementar sistemas de información.",
+      "Capacitar en marketing de servicios de salud."
     ],
-    "respostaCorreta": "Enfoque por necesidades de salud.",
-    "explicacao": "Este enfoque se basa en identificar los problemas prioritarios de una población (necesidades) para asignar recursos de forma proactiva, lo cual es más eficiente y equitativo que responder solo a la demanda de quienes ya acceden a los servicios."
+    "respostaCorreta": "Estrategia general de respuesta a necesidades de gestión y gerencia de personal.",
+    "explicacao": "El DRH se describe como la estrategia general para responder a las necesidades de gestión y gerencia de personal. :contentReference[oaicite:6]{index=6}"
   },
   {
     "id": 28,
-    "area": "Obesidad",
-    "pergunta": "¿Cuál de los siguientes fármacos, utilizados para tratar trastornos del ánimo y epilepsia, está reconocido en las presentaciones como un inductor potencial de obesidad secundaria?",
+    "area": "Gestión de RRHH en Salud",
+    "pergunta": "¿Cuál es la función principal del manejo de los servicios de salud según la presentación?",
     "opcoes": [
-      "Fluoxetina.",
-      "Metformina.",
-      "Valproato.",
-      "Enalapril."
+      "Maximizar el rendimiento económico.",
+      "Responder a las necesidades sentidas por individuos y la sociedad.",
+      "Reducir drásticamente el personal.",
+      "Automatizar procesos administrativos."
     ],
-    "respostaCorreta": "Valproato.",
-    "explicacao": "La presentación sobre obesidad lista explícitamente al valproato (usado como anticomicial y estabilizador del ánimo) como un fármaco que puede inducir un aumento de peso significativo u obesidad."
+    "respostaCorreta": "Responder a las necesidades sentidas por individuos y la sociedad.",
+    "explicacao": "La diapositiva señala que los servicios de salud existen como respuesta a las necesidades sentidas por individuos y la sociedad. :contentReference[oaicite:7]{index=7}"
   },
   {
     "id": 29,
-    "area": "Sistemas de Información",
-    "pergunta": "Al llenar el MIB, un establecimiento registra el tiempo promedio de viaje a pie y en vehículo a su centro de referencia. ¿En qué formulario específico se consigna esta información crucial para evaluar la accesibilidad geográfica?",
+    "area": "Gestión de RRHH en Salud",
+    "pergunta": "Según la presentación, la organización de los servicios de salud varía dependiendo de:",
     "opcoes": [
-      "Formulario 3: Datos de Morbilidad.",
-      "Formulario 4: Isócronas de la Red Funcional de Salud.",
-      "Formulario 7: Medios de Transporte.",
-      "Formulario 18: Referencia de Pacientes."
+      "El desarrollo tecnológico.",
+      "La sociedad y las épocas consideradas.",
+      "El financiamiento internacional.",
+      "La infraestructura física únicamente."
     ],
-    "respostaCorreta": "Formulario 4: Isócronas de la Red Funcional de Salud.",
-    "explicacao": "El formulario de 'Isócronas' está específicamente diseñado para mapear y registrar los tiempos de desplazamiento hacia y desde los establecimientos, siendo una herramienta clave para analizar la accesibilidad real de la población a los servicios de salud."
+    "respostaCorreta": "La sociedad y las épocas consideradas.",
+    "explicacao": "Se indica que la organización de los servicios de salud varía según la sociedad y las épocas. :contentReference[oaicite:8]{index=8}"
   },
   {
     "id": 30,
-    "area": "Factores de Riesgo",
-    "pergunta": "La exposición a la contaminación del aire en una ciudad afecta a todos sus habitantes, independientemente de su condición social, e influye en múltiples aspectos de su salud. ¿Qué características de los factores de riesgo se ejemplifican?",
+    "area": "Gestión de RRHH en Salud",
+    "pergunta": "¿Qué siglas se utilizan para referirse al Desarrollo de Recursos Humanos?",
     "opcoes": [
-      "Universal y Modificable.",
-      "Genético y Cultural.",
-      "Omnipresente y Universal.",
-      "Social y Biológico."
+      "DDR.",
+      "DRH.",
+      "RRHH.",
+      "ADM."
     ],
-    "respostaCorreta": "Omnipresente y Universal.",
-    "explicacao": "Es 'Universal' porque afecta a toda la colectividad de la ciudad. Es 'Omnipresente' porque su influencia se extiende a diversos ámbitos de la salud del individuo (respiratorio, cardiovascular, etc.)."
+    "respostaCorreta": "DRH.",
+    "explicacao": "La presentación emplea la sigla 'DRH' para el Desarrollo de Recursos Humanos. :contentReference[oaicite:9]{index=9}"
+  },
+   {
+    "id": 31,
+    "area": "Gerencia de Recursos Humanos",
+    "pergunta": "¿Cuál es la función principal del proceso de planificación y provisión en la gerencia de RRHH?",
+    "opcoes": [
+      "Asignar presupuestos para formación.",
+      "Garantizar personas adecuadas en los puestos adecuados con distribución equitativa.",
+      "Evaluar el desempeño de los empleados.",
+      "Diseñar organigramas sin considerar necesidades."
+    ],
+    "respostaCorreta": "Garantizar personas adecuadas en los puestos adecuados con distribución equitativa.",
+    "explicacao": "El proceso de planificación y provisión tiene como objetivo principal asegurar que las personas correctas estén en los lugares adecuados, con una distribución equitativa del personal de salud :contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "id": 32,
+    "area": "Gerencia de Recursos Humanos",
+    "pergunta": "¿En qué consiste el proceso de control dentro de la gerencia de RRHH?",
+    "opcoes": [
+      "Implementar programas de capacitación continua.",
+      "Controlar el cumplimiento de metas, proponer mejoras y prever contingencias.",
+      "Registrar historiales de vacaciones.",
+      "Gestionar la nómina mensual."
+    ],
+    "respostaCorreta": "Controlar el cumplimiento de metas, proponer mejoras y prever contingencias.",
+    "explicacao": "El control es el proceso que verifica hasta qué punto se alcanzan los objetivos previstos, permite introducir mejoras y anticipar posibles contingencias :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "id": 33,
+    "area": "Gerencia de Recursos Humanos",
+    "pergunta": "¿Cuál es la diferencia esencial entre los procesos de compensación y mantenimiento en RRHH?",
+    "opcoes": [
+      "Compensación mide resultados; mantenimiento evalúa competencias.",
+      "Compensación incentiva objetivos desafiantes; mantenimiento garantiza condiciones óptimas de trabajo.",
+      "Compensación organiza tareas; mantenimiento incentiva metas.",
+      "Compensación controla presupuestos; mantenimiento diseña roles."
+    ],
+    "respostaCorreta": "Compensación incentiva objetivos desafiantes; mantenimiento garantiza condiciones óptimas de trabajo.",
+    "explicacao": "Mientras la compensación busca motivar continuamente para alcanzar metas desafiantes, el mantenimiento asegura que los trabajadores laboren en las mejores condiciones materiales y de entorno :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "id": 34,
+    "area": "Gerencia de Recursos Humanos",
+    "pergunta": "¿Cuál es una dificultad principal del abordaje basado en necesidades de salud según la presentación?",
+    "opcoes": [
+      "Insensibilidad a factores socioeconómicos.",
+      "Cumplimiento de tareas complejas por definición.",
+      "Falta de demanda directa de usuarios.",
+      "Exceso de intersectorialidad."
+    ],
+    "respostaCorreta": "Cumplimiento de tareas complejas por definición.",
+    "explicacao": "El abordaje basado en necesidades enfrenta como dificultad la realización de tareas complejas por su propia definición, además de priorización y monitoreo :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "id": 35,
+    "area": "Gerencia de Recursos Humanos",
+    "pergunta": "¿Qué tipos de necesidades se identifican en el análisis de necesidades comparativas?",
+    "opcoes": [
+      "Necesidades básicas, avanzadas y críticas.",
+      "Necesidades latentes, percibidas y competitivas.",
+      "Necesidades individuales, grupales y sociales.",
+      "Necesidades técnicas, financieras y operativas."
+    ],
+    "respostaCorreta": "Necesidades latentes, percibidas y competitivas.",
+    "explicacao": "El análisis de necesidades comparativas distingue entre necesidades latentes, percibidas y competitivas en una población determinada :contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "id": 36,
+    "area": "Gerencia de Recursos Humanos",
+    "pergunta": "¿Cuál de los siguientes NO forma parte de las cuatro categorías para la priorización de problemas de salud?",
+    "opcoes": [
+      "Gravedad actual y perspectiva de evolución.",
+      "Importancia socialmente reconocida.",
+      "Costo de la intervención.",
+      "Disponibilidad de recursos humanos."
+    ],
+    "respostaCorreta": "Disponibilidad de recursos humanos.",
+    "explicacao": "Las categorías señaladas son gravedad y evolución, importancia social, vigilancia de acciones y costo de intervención; la disponibilidad de RRHH no es una categoría :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "id": 37,
+    "area": "Gerencia de Recursos Humanos",
+    "pergunta": "¿Cómo define la presentación la capacidad organizacional de la gerencia de RRHH?",
+    "opcoes": [
+      "La habilidad de formar alianzas externas.",
+      "La capacidad de mantener a la organización productiva, eficiente y eficaz usando adecuadamente su recurso humano.",
+      "La destreza en el manejo de nóminas.",
+      "La facultad de automatizar procesos."
+    ],
+    "respostaCorreta": "La capacidad de mantener a la organización productiva, eficiente y eficaz usando adecuadamente su recurso humano.",
+    "explicacao": "La gestión de RRHH se describe como la capacidad de sostener la productividad, eficiencia y eficacia de la organización mediante el uso adecuado de su personal :contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "id": 38,
+    "area": "Gerencia de Recursos Humanos",
+    "pergunta": "¿Cuál es el objetivo del proceso de desarrollo en la gerencia de RRHH?",
+    "opcoes": [
+      "Reducir costos operativos.",
+      "Desarrollar el potencial individual de los trabajadores en beneficio de la organización mediante sus competencias.",
+      "Implementar nuevas tecnologías de información.",
+      "Estandarizar los procesos administrativos."
+    ],
+    "respostaCorreta": "Desarrollar el potencial individual de los trabajadores en beneficio de la organización mediante sus competencias.",
+    "explicacao": "El desarrollo busca potenciar las capacidades individuales de los empleados para el beneficio organizacional, haciendo uso de sus competencias :contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "id": 39,
+    "area": "Gerencia de Recursos Humanos",
+    "pergunta": "¿Qué implica la función de mantenimiento en la gestión de RRHH?",
+    "opcoes": [
+      "Reestructurar organigramas jerárquicos.",
+      "Asegurar que los trabajadores laboren en las mejores condiciones tanto materiales como de entorno.",
+      "Evaluar anualmente el desempeño.",
+      "Negociar convenios sindicales."
+    ],
+    "respostaCorreta": "Asegurar que los trabajadores laboren en las mejores condiciones tanto materiales como de entorno.",
+    "explicacao": "El mantenimiento garantiza que las condiciones de trabajo sean óptimas para el personal, tanto en recursos materiales como en el entorno laboral :contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "id": 40,
+    "area": "Gerencia de Recursos Humanos",
+    "pergunta": "Según la presentación, ¿qué rol deben asumir los profesionales de RRHH más allá de ser simples socios?",
+    "opcoes": [
+      "Gestores de nómina únicamente.",
+      "Generadores de alto valor organizacional.",
+      "Supervisores de la vigilancia interna.",
+      "Analistas de datos financieros."
+    ],
+    "respostaCorreta": "Generadores de alto valor organizacional.",
+    "explicacao": "La prioridad de la gerencia de RRHH es que sus profesionales sean más que socios, convirtiéndose en verdaderos generadores de valor para la organización :contentReference[oaicite:9]{index=9}"
+  },
+  {
+    "id": 41,
+    "area": "Factores de riesgo para la salud",
+    "pergunta": "Según la definición de la presentación, ¿cuál de las siguientes afirmaciones NO corresponde a un factor de riesgo?",
+    "opcoes": [
+      "Es una condición que puede determinar la ocurrencia de una enfermedad.",
+      "Es una garantía determinista de enfermedad.",
+      "Puede ser de naturaleza genética, ambiental, social o cultural.",
+      "Su presencia o influencia puede ocasionar daño a la salud."
+    ],
+    "respostaCorreta": "Es una garantía determinista de enfermedad.",
+    "explicacao": "Un factor de riesgo condiciona o predispone a la enfermedad, pero no garantiza su ocurrencia de forma determinista :contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "id": 42,
+    "area": "Factores de riesgo para la salud",
+    "pergunta": "¿Cuál de estos ejemplos corresponde a un factor de riesgo hereditario según la presentación?",
+    "opcoes": [
+      "Exposición a radiaciones.",
+      "Hipercolesterolemia familiar.",
+      "Hacinamiento en la vivienda.",
+      "Contaminación del aire."
+    ],
+    "respostaCorreta": "Hipercolesterolemia familiar.",
+    "explicacao": "Los factores hereditarios son características biológicas traspasadas de padres a hijos, como predisposiciones a enfermedades crónicas (p. ej., dislipidemias) :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "id": 43,
+    "area": "Factores de riesgo para la salud",
+    "pergunta": "Según la clasificación de riesgos ambientales, ¿cuál de estos es un riesgo ambiental físico?",
+    "opcoes": [
+      "Microorganismos patógenos.",
+      "Creencias culturales.",
+      "Nivel socioeconómico.",
+      "Radiaciones ionizantes."
+    ],
+    "respostaCorreta": "Microorganismos patógenos.",
+    "explicacao": "Los riesgos ambientales físicos incluyen factores con vida (animales, plantas, personas, microorganismos patógenos) :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "id": 44,
+    "area": "Factores de riesgo para la salud",
+    "pergunta": "¿Cuál de los siguientes ejemplifica un riesgo ambiental biológico según la presentación?",
+    "opcoes": [
+      "Contaminación de alimentos por manejo humano.",
+      "Deficiencias de luz natural.",
+      "Diabetes hereditaria.",
+      "Ruidos urbanos."
+    ],
+    "respostaCorreta": "Contaminación de alimentos por manejo humano.",
+    "explicacao": "Los riesgos ambientales biológicos son los creados por el ser humano a través de interacciones individuales y colectivas, como la contaminación de los alimentos :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "id": 45,
+    "area": "Factores de riesgo para la salud",
+    "pergunta": "Entre los factores de riesgo sociales, ¿cuál de estos se menciona explícitamente en la presentación?",
+    "opcoes": [
+      "Hacinamiento en la vivienda.",
+      "Radiaciones ultravioletas.",
+      "Predisposición genética.",
+      "Contaminación del agua."
+    ],
+    "respostaCorreta": "Hacinamiento en la vivienda.",
+    "explicacao": "Los factores de riesgo de origen social incluyen condiciones como el hacinamiento en la vivienda :contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "id": 46,
+    "area": "Factores de riesgo para la salud",
+    "pergunta": "Según la diapositiva sobre factores culturales, ¿cuál de estos elementos forma parte de esa categoría?",
+    "opcoes": [
+      "Valores morales y costumbres.",
+      "Deficiencias de saneamiento.",
+      "Enfermedades crónicas hereditarias.",
+      "Radiaciones ionizantes."
+    ],
+    "respostaCorreta": "Valores morales y costumbres.",
+    "explicacao": "Los factores culturales incluyen conocimientos, creencias, costumbres, valores morales y hábitos :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "id": 47,
+    "area": "Factores de riesgo para la salud",
+    "pergunta": "¿Cuál de las siguientes características describe un factor de riesgo modificable según la presentación?",
+    "opcoes": [
+      "Su presencia puede reducirse o eliminarse con educación en salud.",
+      "Es omnipresente en todos los ámbitos de existencia.",
+      "Se ejerce sobre todos los individuos de una sociedad.",
+      "Se hereda de los padres."
+    ],
+    "respostaCorreta": "Su presencia puede reducirse o eliminarse con educación en salud.",
+    "explicacao": "Los factores de riesgo modificables son aquellos cuya presencia puede cambiarse o eliminarse mediante promoción y educación en salud :contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "id": 48,
+    "area": "Factores de riesgo para la salud",
+    "pergunta": "¿Cuál de estas NO es una de las tres características esenciales de los factores de riesgo mencionadas en la presentación?",
+    "opcoes": [
+      "Son universales.",
+      "Son omnipresentes.",
+      "Son inmutables.",
+      "Son modificables."
+    ],
+    "respostaCorreta": "Son inmutables.",
+    "explicacao": "Las tres características esenciales son: universales, omnipresentes y modificables; no se describen como inmutables :contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "id": 49,
+    "area": "Factores de riesgo para la salud",
+    "pergunta": "De acuerdo con la presentación, ¿qué factor de riesgo ambiental se relaciona con condiciones climáticas?",
+    "opcoes": [
+      "Ruidos.",
+      "Contaminación del aire.",
+      "Condiciones de riesgo relativas al tiempo y clima.",
+      "Deficiencias de luz."
+    ],
+    "respostaCorreta": "Condiciones de riesgo relativas al tiempo y clima.",
+    "explicacao": "Los riesgos ambientales incluyen condiciones inadecuadas de vivienda, tiempo y clima, saneamiento y otros :contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "id": 50,
+    "area": "Factores de riesgo para la salud",
+    "pergunta": "Según el esquema de la presentación, ¿cómo se denomina el traspaso de características biológicas de padres a hijos?",
+    "opcoes": [
+      "Herencia genética.",
+      "Riesgo ambiental.",
+      "Factor social.",
+      "Riesgo cultural."
+    ],
+    "respostaCorreta": "Herencia genética.",
+    "explicacao": "La herencia genética condiciona predisposiciones a enfermedades físicas y mentales sin control individual sobre ella :contentReference[oaicite:9]{index=9}"
+  },
+  {
+    "id": 51,
+    "area": "Hipertensión Arterial",
+    "pergunta": "Según la presentación, ¿qué porcentaje de la población adulta boliviana vive con hipertensión arterial en 2025?",
+    "opcoes": [
+      "53,6%",
+      "23,5%",
+      "15,9%",
+      "35%"
+    ],
+    "respostaCorreta": "15,9%",
+    "explicacao": "En 2025 se estima que el 15,9% de la población adulta boliviana vive con hipertensión arterial. :contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "id": 52,
+    "area": "Hipertensión Arterial",
+    "pergunta": "¿Cuál es el porcentaje de pacientes hipertensos que tienen su presión controlada en Bolivia según el estudio citado?",
+    "opcoes": [
+      "23,5%",
+      "15,9%",
+      "53,6%",
+      "68%"
+    ],
+    "respostaCorreta": "23,5%",
+    "explicacao": "Solo el 23,5% de los pacientes hipertensos en Bolivia tiene su presión arterial controlada. :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "id": 53,
+    "area": "Hipertensión Arterial",
+    "pergunta": "En la fisiopatología de la hipertensión arterial, ¿qué sistemas se mencionan como responsables del aumento del volumen intravascular y la resistencia vascular periférica?",
+    "opcoes": [
+      "Sistema simpático y sistema parasimpático.",
+      "Sistema renina-angiotensina-aldosterona (SRAA) y actividad simpática.",
+      "Eje hipotálamo-hipófisis y factor natriurético.",
+      "Sistema colinérgico y eje GABAérgico."
+    ],
+    "respostaCorreta": "Sistema renina-angiotensina-aldosterona (SRAA) y actividad simpática.",
+    "explicacao": "La presentación señala que la fisiopatología incluye actividad simpática y SRAA que incrementan volumen intravascular y resistencia periférica. :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "id": 54,
+    "area": "Hipertensión Arterial",
+    "pergunta": "¿Cuál de las siguientes afirmaciones describe mejor la hipertensión arterial esencial según la presentación?",
+    "opcoes": [
+      "Representa aproximadamente el 10% de los casos y tiene causa secundaria clara.",
+      "Aparece exclusivamente en menores de 30 años sin factores de riesgo.",
+      "Es idiopática y explica el 90% de los casos de hipertensión.",
+      "Se caracteriza por cifras altas solo en la consulta médica."
+    ],
+    "respostaCorreta": "Es idiopática y explica el 90% de los casos de hipertensión.",
+    "explicacao": "La hipertensión esencial o idiopática constituye el 90% de los casos, sin causa única identificable. :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "id": 55,
+    "area": "Hipertensión Arterial",
+    "pergunta": "¿Cuál es la causa más frecuente de hipertensión arterial secundaria según la presentación?",
+    "opcoes": [
+      "Feocromocitoma.",
+      "Coartación de aorta.",
+      "Enfermedad renal crónica.",
+      "Hiperaldosteronismo."
+    ],
+    "respostaCorreta": "Enfermedad renal crónica.",
+    "explicacao": "Las enfermedades del riñón, especialmente la insuficiencia renal crónica, son la causa más frecuente de hipertensión secundaria. :contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "id": 56,
+    "area": "Hipertensión Arterial",
+    "pergunta": "Para confirmar el diagnóstico de hipertensión arterial según la presentación, ¿cuál es el criterio de medición recomendado?",
+    "opcoes": [
+      "Una única toma en reposo de 5 minutos.",
+      "Tres tomas consecutivas en menos de 5 minutos.",
+      "Dos tomas separadas tras al menos 10 minutos de reposo.",
+      "Medición continua durante 24 horas."
+    ],
+    "respostaCorreta": "Dos tomas separadas tras al menos 10 minutos de reposo.",
+    "explicacao": "El diagnóstico requiere demostrar cifras elevadas en 2 o más ocasiones, con el paciente sentado tras 10 min de reposo. :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "id": 57,
+    "area": "Hipertensión Arterial",
+    "pergunta": "¿Qué característica distingue al MAPA frente al AMPA según la presentación?",
+    "opcoes": [
+      "El MAPA mide la presión solo en el domicilio.",
+      "El AMPA registra de forma continua 24-48 h.",
+      "El MAPA realiza mediciones automáticas durante 24-48 h.",
+      "El AMPA incluye monitorización nocturna continua."
+    ],
+    "respostaCorreta": "El MAPA realiza mediciones automáticas durante 24-48 h.",
+    "explicacao": "El MAPA implica monitorización ambulatoria continua durante 24-48 h, a diferencia del AMPA domiciliario. :contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "id": 58,
+    "area": "Hipertensión Arterial",
+    "pergunta": "Según la presentación, ¿cómo se define la hipertensión arterial refractaria?",
+    "opcoes": [
+      "Falta de control con al menos 3 medicamentos, incluyendo un diurético.",
+      "Presión no controlada tras recomendaciones dietéticas solamente.",
+      "HTA que aparece durante el embarazo.",
+      "Cifras elevadas solo en la consulta médica."
+    ],
+    "respostaCorreta": "Falta de control con al menos 3 medicamentos, incluyendo un diurético.",
+    "explicacao": "Se denomina refractaria a la HTA que no se controla a pesar de tomar al menos 3 fármacos, uno de ellos un diurético. :contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "id": 59,
+    "area": "Hipertensión Arterial",
+    "pergunta": "¿Cómo se clasifica la hipertensión crónica durante el embarazo según la presentación?",
+    "opcoes": [
+      "Aparición después de la semana 20 que desaparece 6 semanas tras el parto.",
+      "Diagnóstico antes de la pubertad.",
+      "Diagnóstico antes de las 20 semanas y persistencia más de 12 semanas tras el parto.",
+      "HTA de bata blanca en mujeres embarazadas."
+    ],
+    "respostaCorreta": "Diagnóstico antes de las 20 semanas y persistencia más de 12 semanas tras el parto.",
+    "explicacao": "La hipertensión crónica durante el embarazo aparece antes de las 20 semanas o persiste 12 semanas tras el parto. :contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "id": 60,
+    "area": "Hipertensión Arterial",
+    "pergunta": "¿Cuáles son los principales órganos diana que pueden sufrir daño crónico por hipertensión arterial?",
+    "opcoes": [
+      "Corazón, cerebro, riñón y retina.",
+      "Pulmones, hígado, piel y huesos.",
+      "Intestino, páncreas, tiroides y bazo.",
+      "Músculos, tendones, articulaciones y ligamentos."
+    ],
+    "respostaCorreta": "Corazón, cerebro, riñón y retina.",
+    "explicacao": "La presentación menciona daño a órganos diana: corazón, cerebro, riñón y retina. :contentReference[oaicite:9]{index=9}"
+  },
+    {
+    "id": 61,
+    "area": "Obesidad",
+    "pergunta": "Según la presentación, ¿qué porcentaje de adultos de 18 años o más tenían sobrepeso en 2022 a nivel mundial?",
+    "opcoes": [
+      "16 %",
+      "35 %",
+      "43 %",
+      "25 %"
+    ],
+    "respostaCorreta": "43 %",
+    "explicacao": "En 2022, el 43 % de los adultos de 18 años o más tenían sobrepeso a nivel mundial. :contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "id": 62,
+    "area": "Obesidad",
+    "pergunta": "¿Cuál de las siguientes NO se menciona como causa de obesidad secundaria en la presentación?",
+    "opcoes": [
+      "Síndromes genéticos malformativos",
+      "Lipomatosis o lipodistrofias",
+      "Sedentarismo",
+      "Obesidad inducida por fármacos"
+    ],
+    "respostaCorreta": "Sedentarismo",
+    "explicacao": "La presentación clasifica la obesidad secundaria en causas neuroendocrinas, genéticas, discapacidades y fármacos, pero no incluye el sedentarismo. :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "id": 63,
+    "area": "Obesidad",
+    "pergunta": "¿Cuál de estos fármacos NO figura en la lista de medicamentos que pueden inducir obesidad según la diapositiva?",
+    "opcoes": [
+      "Glucocorticoides",
+      "Olanzapina",
+      "Metformina",
+      "Valproato"
+    ],
+    "respostaCorreta": "Metformina",
+    "explicacao": "La metformina no está en la lista; los antidiabéticos orales mencionados incluyen sulfonilureas, tiazolidindionas y metiglinidas. :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "id": 64,
+    "area": "Obesidad",
+    "pergunta": "Para medir correctamente el perímetro abdominal en pacientes obesos, ¿entre qué puntos anatómicos se coloca la cinta métrica?",
+    "opcoes": [
+      "Entre el ombligo y la cresta iliaca",
+      "Entre la espina iliaca anterosuperior y el margen costal inferior",
+      "Entre la línea axilar anterior y la costilla séptima",
+      "A nivel de la fosa iliaca izquierda"
+    ],
+    "respostaCorreta": "Entre la espina iliaca anterosuperior y el margen costal inferior",
+    "explicacao": "La cinta se sitúa en el punto medio entre la espina iliaca anterosuperior y el margen costal inferior, en espiración y de pie. :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "id": 65,
+    "area": "Obesidad",
+    "pergunta": "¿Qué déficit calórico diario recomienda la presentación para lograr una pérdida de 0,5 a 1 kg por semana?",
+    "opcoes": [
+      "200–300 kcal/día",
+      "500–750 kcal/día",
+      "800–1 000 kcal/día",
+      "1 200–1 500 kcal/día"
+    ],
+    "respostaCorreta": "500–750 kcal/día",
+    "explicacao": "Se recomienda un déficit calórico de 500–750 kcal por día para perder aproximadamente 0,5–1 kg por semana. :contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "id": 66,
+    "area": "Obesidad",
+    "pergunta": "En el seguimiento de casos de obesidad, ¿qué característica NO forma parte de los objetivos SMART según la presentación?",
+    "opcoes": [
+      "Específicos",
+      "Medibles",
+      "Continuos",
+      "Alcanzables"
+    ],
+    "respostaCorreta": "Continuos",
+    "explicacao": "Los objetivos SMART son Específicos, Medibles, Alcanzables, Relevantes y con límite de Tiempo; no incluyen 'Continuos'. :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "id": 67,
+    "area": "Obesidad",
+    "pergunta": "¿Cómo se describe somatotípicamente a un ectomorfo según la diapositiva de tipos de cuerpo?",
+    "opcoes": [
+      "Redondeado y con acumulación de grasa",
+      "Atlético y musculoso",
+      "Delgado, extremidades largas y poca grasa",
+      "Brazos cortos y gran masa muscular"
+    ],
+    "respostaCorreta": "Delgado, extremidades largas y poca grasa",
+    "explicacao": "El ectomorfo se caracteriza por un físico delgado, extremidades largas y baja cantidad de grasa y músculo. :contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "id": 68,
+    "area": "Obesidad",
+    "pergunta": "Según los criterios del IMC en la presentación, ¿qué valor marca el inicio de la obesidad mórbida?",
+    "opcoes": [
+      "BMI ≥ 30 kg/m²",
+      "BMI ≥ 35 kg/m²",
+      "BMI ≥ 40 kg/m²",
+      "BMI ≥ 45 kg/m²"
+    ],
+    "respostaCorreta": "BMI ≥ 40 kg/m²",
+    "explicacao": "La obesidad mórbida se define por un IMC igual o superior a 40 kg/m². :contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "id": 69,
+    "area": "Obesidad",
+    "pergunta": "¿Cuál es una de las limitaciones del uso del IMC mencionada en la presentación?",
+    "opcoes": [
+      "No requiere peso ni talla",
+      "Infravalora la adiposidad en individuos con baja masa magra",
+      "Es una medida directa de la grasa visceral",
+      "Es específico para menores de 5 años"
+    ],
+    "respostaCorreta": "Infravalora la adiposidad en individuos con baja masa magra",
+    "explicacao": "El IMC puede infravalorar la adiposidad en personas con poca masa corporal magra, como ancianos o enfermos. :contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "id": 70,
+    "area": "Obesidad",
+    "pergunta": "En mujeres, ¿cuál es el valor de corte de circunferencia abdominal para definir obesidad central según la presentación?",
+    "opcoes": [
+      "≥ 80 cm",
+      "≥ 88 cm",
+      "≥ 94 cm",
+      "≥ 102 cm"
+    ],
+    "respostaCorreta": "≥ 88 cm",
+    "explicacao": "El límite superior de normalidad para cintura en mujeres es de 88 cm para definir obesidad central. :contentReference[oaicite:9]{index=9}"
+  },
+   {
+    "id": 71,
+    "area": "Diabetes Mellitus",
+    "pergunta": "¿Cómo define la presentación la diabetes mellitus?",
+    "opcoes": [
+      "Enfermedad infecciosa caracterizada por hipoglucemia.",
+      "Trastorno metabólico crónico con niveles elevados de glucosa en sangre debido a anomalías en la producción o función de la insulina.",
+      "Afección genética exclusiva de la infancia.",
+      "Síndrome autoinmune que solo reduce la secreción de glucagón."
+    ],
+    "respostaCorreta": "Trastorno metabólico crónico con niveles elevados de glucosa en sangre debido a anomalías en la producción o función de la insulina.",
+    "explicacao": "La presentación describe la diabetes mellitus como una enfermedad metabólica crónica con hiperglucemia causada por anomalías en la producción o acción de la insulina. :contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "id": 72,
+    "area": "Diabetes Mellitus",
+    "pergunta": "¿Qué función pancreática es responsable de la secreción de hormonas al torrente sanguíneo?",
+    "opcoes": [
+      "Función exocrina.",
+      "Función endocrina.",
+      "Función paracrina.",
+      "Función autocrina."
+    ],
+    "respostaCorreta": "Función endocrina.",
+    "explicacao": "La función endocrina del páncreas implica la secreción de hormonas (insulina y glucagón) directamente al torrente sanguíneo. :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "id": 73,
+    "area": "Diabetes Mellitus",
+    "pergunta": "¿Cuál es la misión principal de la insulina según la presentación?",
+    "opcoes": [
+      "Aumentar la producción de glucagón.",
+      "Facilitar la penetración de la glucosa en las células para ser utilizada como energía.",
+      "Incrementar la gluconeogénesis hepática.",
+      "Bloquear la absorción de carbohidratos."
+    ],
+    "respostaCorreta": "Facilitar la penetración de la glucosa en las células para ser utilizada como energía.",
+    "explicacao": "La insulina permite que la glucosa circulante penetre en las células y sea aprovechada como fuente de energía. :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "id": 74,
+    "area": "Diabetes Mellitus",
+    "pergunta": "¿Qué prueba diagnóstica de diabetes requiere la ingesta de 75 g de glucosa disueltos en agua?",
+    "opcoes": [
+      "Glucemia en ayunas.",
+      "Hemoglobina glucosilada (HbA1c).",
+      "Prueba de Tolerancia Oral a la Glucosa (PTOG).",
+      "Glucemia al azar."
+    ],
+    "respostaCorreta": "Prueba de Tolerancia Oral a la Glucosa (PTOG).",
+    "explicacao": "La PTOG se realiza administrando 75 g de glucosa en 300 ml de agua y midiendo glucemia a las 2 horas. :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "id": 75,
+    "area": "Diabetes Mellitus",
+    "pergunta": "¿Qué mide la prueba de hemoglobina glucosilada (HbA1c)?",
+    "opcoes": [
+      "Glucemia capilar inmediata.",
+      "Promedio de glucosa unida a hemoglobina durante 2–3 meses.",
+      "Resistencia a la insulina postprandial.",
+      "Niveles de péptido C."
+    ],
+    "respostaCorreta": "Promedio de glucosa unida a hemoglobina durante 2–3 meses.",
+    "explicacao": "La HbA1c refleja el porcentaje de glucosa unida a la hemoglobina, indicando el control glucémico en los últimos 2–3 meses. :contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "id": 76,
+    "area": "Diabetes Mellitus",
+    "pergunta": "Según la presentación, ¿qué complica la confirmación diagnóstica si dos tests diferentes arrojan resultados opuestos?",
+    "opcoes": [
+      "Se da por válido el resultado negativo.",
+      "Se repite el test con resultado positivo.",
+      "Se acepta el promedio de ambos.",
+      "Se realiza una biopsia pancreática."
+    ],
+    "respostaCorreta": "Se repite el test con resultado positivo.",
+    "explicacao": "Si los resultados de dos pruebas diferentes son discordantes, la confirmación diagnóstica requiere repetir la prueba que resultó positiva. :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "id": 77,
+    "area": "Diabetes Mellitus",
+    "pergunta": "¿Cuáles de las siguientes se clasifican como complicaciones macrovasculares de la diabetes según la presentación?",
+    "opcoes": [
+      "Retinopatía y neuropatía.",
+      "Enfermedad coronaria, cerebrovascular y arterial periférica.",
+      "Nefropatía y retinopatía.",
+      "Neuropatía y nefropatía."
+    ],
+    "respostaCorreta": "Enfermedad coronaria, cerebrovascular y arterial periférica.",
+    "explicacao": "Las complicaciones macrovasculares incluyen enfermedad coronaria, cerebrovascular y enfermedad arterial periférica. :contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "id": 78,
+    "area": "Diabetes Mellitus",
+    "pergunta": "¿Qué aporte de fibra alimentaria recomienda la presentación para el control de la diabetes?",
+    "opcoes": [
+      "Aumentar la absorción de glucosa.",
+      "Disminuir la absorción de glucosa y colesterol.",
+      "Incrementar la sensación de sed.",
+      "Elevar el índice glucémico."
+    ],
+    "respostaCorreta": "Disminuir la absorción de glucosa y colesterol.",
+    "explicacao": "La dieta del diabético incluye fibra porque reduce la absorción de glucosa y colesterol de los alimentos. :contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "id": 79,
+    "area": "Diabetes Mellitus",
+    "pergunta": "¿Cuál es la recomendación mínima de ejercicio físico aeróbico semanal para el control de la diabetes?",
+    "opcoes": [
+      "75 minutos de intensidad vigorosa.",
+      "150 minutos de intensidad moderada.",
+      "200 minutos de actividades domésticas.",
+      "60 minutos de alta intensidad."
+    ],
+    "respostaCorreta": "150 minutos de intensidad moderada.",
+    "explicacao": "Se recomienda al menos 150 min/sem de actividad física aeróbica moderada, repartida en ≥3 días y sin >2 días seguidos de inactividad. :contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "id": 80,
+    "area": "Diabetes Mellitus",
+    "pergunta": "¿En qué semana de gestación suele diagnosticarse la diabetes gestacional según la presentación?",
+    "opcoes": [
+      "Semana 12–16.",
+      "Semana 24–28.",
+      "Semana 8–12.",
+      "Semana 30–34."
+    ],
+    "respostaCorreta": "Semana 24–28.",
+    "explicacao": "La diabetes gestacional ocurre principalmente entre las semanas 24 y 28 de embarazo. :contentReference[oaicite:9]{index=9}"
+  },
+    {
+    "id": 81,
+    "area": "Glicemia Capilar",
+    "pergunta": "¿Cómo define la presentación la glicemia capilar?",
+    "opcoes": [
+      "Medición de glucosa en suero venoso en laboratorio clínico.",
+      "Medición de glucosa en orina mediante tiras reactivas.",
+      "Medición de glucosa en sangre a través de una muestra capilar con glucómetro y tiras reactivas.",
+      "Medición de glucosa en sangre arterial mediante catéter."
+    ],
+    "respostaCorreta": "Medición de glucosa en sangre a través de una muestra capilar con glucómetro y tiras reactivas.",
+    "explicacao": "La glicemia capilar se refiere a la medición de glucosa en sangre obtenida de un capilar, generalmente del dedo, usando un glucómetro y tiras reactivas para una lectura rápida y precisa :contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "id": 82,
+    "area": "Glicemia Capilar",
+    "pergunta": "¿Cuál de los siguientes conjuntos incluye correctamente todo el equipo necesario para la medición de glicemia capilar según la presentación?",
+    "opcoes": [
+      "Glucómetro, tiras reactivas, lanceta, cuaderno de control, guantes desechables.",
+      "Glucómetro, jeringa, lanceta, bata de laboratorio.",
+      "Tiras reactivas, vaso de precipitados, cubeta, termómetro.",
+      "Lanceta, pipeta, reactivos químicos, microscopio."
+    ],
+    "respostaCorreta": "Glucómetro, tiras reactivas, lanceta, cuaderno de control, guantes desechables.",
+    "explicacao": "La presentación indica como equipo necesario el glucómetro, las tiras reactivas, la lanceta, el cuaderno de control y los guantes desechables :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "id": 83,
+    "area": "Glicemia Capilar",
+    "pergunta": "¿Qué función cumple la lanceta en la técnica de recolección de muestra?",
+    "opcoes": [
+      "Calibrar el glucómetro antes de la medición.",
+      "Realizar la punción para obtener la muestra capilar de sangre.",
+      "Aplicar la sangre a la tira reactiva.",
+      "Registrar el resultado en el cuaderno de control."
+    ],
+    "respostaCorreta": "Realizar la punción para obtener la muestra capilar de sangre.",
+    "explicacao": "La lanceta se utiliza para realizar la punción en el sitio de muestreo y extraer una pequeña gota de sangre capilar :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "id": 84,
+    "area": "Glicemia Capilar",
+    "pergunta": "¿Cuál es el orden correcto de pasos en el procedimiento de toma de muestras capilares según la presentación?",
+    "opcoes": [
+      "Realizar punción → Insertar tira reactiva → Aplicar sangre → Resultado.",
+      "Insertar tira reactiva → Realizar punción → Aplicar sangre → Resultado.",
+      "Aplicar sangre → Realizar punción → Insertar tira reactiva → Resultado.",
+      "Resultado → Insertar tira reactiva → Realizar punción → Aplicar sangre."
+    ],
+    "respostaCorreta": "Insertar tira reactiva → Realizar punción → Aplicar sangre → Resultado.",
+    "explicacao": "El procedimiento descrito inicia con la inserción de la tira reactiva, seguido de la punción, luego la aplicación de la sangre y finalmente la lectura del resultado :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "id": 85,
+    "area": "Glicemia Capilar",
+    "pergunta": "¿Qué sitios de toma de muestra se mencionan en la presentación? (Selección única)",
+    "opcoes": [
+      "Punta de la nariz, lóbulo de la oreja, muñeca.",
+      "Laterales de las yemas de los dedos, talón, lóbulo de la oreja.",
+      "Cara interna del brazo, talón, punta del dedo gordo.",
+      "Lóbulo de la oreja, labio inferior, antebrazo."
+    ],
+    "respostaCorreta": "Laterales de las yemas de los dedos, talón, lóbulo de la oreja.",
+    "explicacao": "Los sitios de muestreo indicados son los laterales de las yemas de los dedos, el talón y el lóbulo de la oreja :contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "id": 86,
+    "area": "Glicemia Capilar",
+    "pergunta": "¿Cuál es la importancia del control de la glicemia capilar según la presentación?",
+    "opcoes": [
+      "Detectar rápidamente hiperglucemia e hipoglucemia en pacientes diabéticos y otros casos clínicos.",
+      "Medir niveles de colesterol en tiempo real.",
+      "Evaluar la función renal.",
+      "Registrar parámetros hemodinámicos."
+    ],
+    "respostaCorreta": "Detectar rápidamente hiperglucemia e hipoglucemia en pacientes diabéticos y otros casos clínicos.",
+    "explicacao": "La presentación destaca que este monitoreo permite detectar de forma rápida si los niveles de glucosa están dentro del rango ideal o si hay hiperglucemia o hipoglucemia :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "id": 87,
+    "area": "Glicemia Capilar",
+    "pergunta": "¿Qué término se emplea para describir los niveles elevados de glucosa detectados con este procedimiento?",
+    "opcoes": [
+      "Euglucemia.",
+      "Hiperglucemia.",
+      "Hipoglucemia.",
+      "Normoglucemia."
+    ],
+    "respostaCorreta": "Hiperglucemia.",
+    "explicacao": "La presentación utiliza el término 'hiperglucemia' para referirse a niveles altos de glucosa en sangre :contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "id": 88,
+    "area": "Glicemia Capilar",
+    "pergunta": "¿Qué término se emplea para describir los niveles bajos de glucosa detectados con este procedimiento?",
+    "opcoes": [
+      "Hiperglucemia.",
+      "Hipoglucemia.",
+      "Euglucemia.",
+      "Normoglucemia."
+    ],
+    "respostaCorreta": "Hipoglucemia.",
+    "explicacao": "La presentación utiliza el término 'hipoglucemia' para referirse a niveles bajos de glucosa en sangre :contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "id": 89,
+    "area": "Glicemia Capilar",
+    "pergunta": "¿Qué papel tienen las tiras reactivas en el proceso de medición de glicemia capilar?",
+    "opcoes": [
+      "Proporcionar el dispositivo de punción.",
+      "Analizar la muestra de sangre y permitir la lectura rápida y precisa de glucosa.",
+      "Registrar el resultado en el cuaderno de control.",
+      "Estabilizar la presión arterial durante la medición."
+    ],
+    "respostaCorreta": "Analizar la muestra de sangre y permitir la lectura rápida y precisa de glucosa.",
+    "explicacao": "Las tiras reactivas contienen los reactivos que analizan la muestra de sangre y facilitan una lectura inmediata y fiable en el glucómetro :contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "id": 90,
+    "area": "Glicemia Capilar",
+    "pergunta": "¿Cuál de los siguientes NO forma parte del equipo necesario para la medición de glicemia capilar según la presentación?",
+    "opcoes": [
+      "Glucómetro.",
+      "Lanceta.",
+      "Termómetro.",
+      "Guantes desechables."
+    ],
+    "respostaCorreta": "Termómetro.",
+    "explicacao": "El termómetro no se menciona; el equipo necesario incluye glucómetro, tiras reactivas, lanceta, cuaderno de control y guantes desechables :contentReference[oaicite:9]{index=9}"
   }
 ]
