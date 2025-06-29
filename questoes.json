@@ -1,158 +1,236 @@
 [
   {
-    "id": 1,
-    "area": "Salud Pública",
-    "pergunta": "¿Cuál es el objetivo principal del Módulo de Información Básica (M.I.B) según el SNIS-VE?",
+    "id": 13,
+    "area": "Gestión de RRHH",
+    "pergunta": "Dentro de los procesos de gestión de RRHH, ¿qué subproceso es fundamental para asegurar que las competencias de los trabajadores se alineen con los objetivos de la organización, más allá de la capacitación inicial?",
     "opcoes": [
-      "Realizar el censo demográfico anual de Bolivia.",
-      "Generar datos para la toma de decisiones a nivel local para la mejora continua de la atención a la población.",
-      "Controlar la facturación y los costos de los hospitales de tercer nivel.",
-      "Capacitar exclusivamente al personal de enfermería en emergencias."
+      "Reclutamiento de personal.",
+      "Desarrollo de las organizaciones.",
+      "Remuneración y beneficios.",
+      "Diseño de ocupación y cargos."
     ],
-    "respostaCorreta": "Generar datos para la toma de decisiones a nivel local para la mejora continua de la atención a la población.",
-    "explicacao": "El M.I.B. es un instrumento de capacitación y sistematización de información que contribuye a la toma de decisiones a nivel local, con el fin de mejorar el acceso y la atención."
+    "respostaCorreta": "Desarrollo de las organizaciones.",
+    "explicacao": "El 'Desarrollo de las organizaciones' es un subproceso del Desarrollo de RRHH que busca potenciar al máximo las capacidades de los individuos en beneficio de la organización, asegurando un crecimiento y adaptación continuos más allá del entrenamiento inicial."
   },
   {
-    "id": 2,
-    "area": "Gestión en Salud",
-    "pergunta": "¿A qué niveles de atención en salud se aplica primordialmente el M.I.B.?",
+    "id": 14,
+    "area": "Gerencia de RRHH",
+    "pergunta": "Según el enfoque de gestión de servicios de salud, ¿cuál es la principal desventaja de organizar la oferta de servicios basándose exclusivamente en la 'demanda directa' de los usuarios?",
     "opcoes": [
-      "Solo a hospitales de Tercer y Cuarto Nivel.",
-      "A todos los niveles de atención, incluyendo puestos de salud y hospitales de alta complejidad.",
-      "A establecimientos de salud de Primer y Segundo Nivel de atención.",
-      "Solo a Centros de Salud con régimen de internación."
+      "Reduce la participación comunitaria en la planificación.",
+      "Es más costoso en términos de infraestructura y tecnología.",
+      "Crea problemas de eficiencia y equidad, al estar influenciada por factores socioeconómicos.",
+      "Requiere una mayor cantidad de personal especializado."
     ],
-    "respostaCorreta": "A establecimientos de salud de Primer y Segundo Nivel de atención.",
-    "explicacao": "El Módulo de Información Básica fue diseñado específicamente para sistematizar la información de los establecimientos de salud de 1er y 2do Nivel."
+    "respostaCorreta": "Crea problemas de eficiencia y equidad, al estar influenciada por factores socioeconómicos.",
+    "explicacao": "La organización por demanda es sensible a factores como el nivel de ingreso, educación y estatus social, lo que puede llevar a una distribución inequitativa de los recursos, atendiendo más a quienes pueden 'demandar' que a quienes más lo 'necesitan', afectando la eficiencia y equidad del sistema."
   },
   {
-    "id": 3,
-    "area": "Epidemiología",
-    "pergunta": "¿Con qué frecuencia se debe registrar la información del M.I.B. y cuál es el plazo final para su envío?",
+    "id": 15,
+    "area": "Factores de Riesgo",
+    "pergunta": "Un individuo con predisposición genética al cáncer (factor no modificable) adopta un estilo de vida sedentario y una dieta alta en grasas. ¿Cómo se clasificaría correctamente esta combinación de factores?",
     "opcoes": [
-      "Mensualmente, hasta el último día de cada mes.",
-      "Semestralmente, hasta el final de junio y diciembre.",
-      "Anualmente, hasta el primer trimestre de cada gestión.",
-      "Cada dos años, coincidiendo con el censo local."
+      "Como un riesgo exclusivamente genético, ya que es el factor primario.",
+      "Como la interacción de un factor de riesgo genético con factores de riesgo culturales y sociales modificables.",
+      "Como un factor de riesgo ambiental, ya que la dieta y el sedentarismo son externos.",
+      "Como un factor de riesgo omnipresente y, por lo tanto, imposible de mitigar."
     ],
-    "respostaCorreta": "Anualmente, hasta el primer trimestre de cada gestión.",
-    "explicacao": "La información del M.I.B. se registra una vez al año y debe ser enviada hasta el primer trimestre de la gestión siguiente para su consolidación."
+    "respostaCorreta": "Como la interacción de un factor de riesgo genético con factores de riesgo culturales y sociales modificables.",
+    "explicacao": "La situación describe la sinergia entre una predisposición hereditaria (genético) y hábitos de vida (culturales/sociales) que son modificables. La presencia de la predisposición genética aumenta el impacto negativo de los otros factores de riesgo."
   },
   {
-    "id": 4,
+    "id": 16,
+    "area": "Hipertensión Arterial",
+    "pergunta": "Un paciente presenta cifras de PA de 150/95 mmHg en la consulta, pero su MAPA de 24 horas revela un promedio de 160/100 mmHg durante su jornada laboral y 115/75 mmHg en su hogar y durante el sueño. ¿Cuál es el diagnóstico más preciso?",
+    "opcoes": [
+      "Hipertensión de bata blanca.",
+      "Hipertensión enmascarada.",
+      "Hipertensión arterial grado 1, sin complicaciones.",
+      "Hipertensión arterial refractaria."
+    ],
+    "respostaCorreta": "Hipertensión enmascarada.",
+    "explicacao": "La hipertensión enmascarada se caracteriza por cifras de PA normales (o subestimadas) en la consulta, pero elevadas fuera del entorno sanitario, como lo demuestra el MAPA durante la jornada laboral. No es 'bata blanca' porque la presión en consulta también está alta, pero el MAPA revela una situación más grave fuera de ella."
+  },
+  {
+    "id": 17,
+    "area": "Diagnóstico de Hipertensión",
+    "pergunta": "En un paciente con HTA grado 2, ¿cuál de los siguientes hallazgos en los exámenes complementarios indicaría un 'daño orgánico subclínico' establecido, justificando un inicio más agresivo del tratamiento?",
+    "opcoes": [
+      "Niveles de colesterol total de 210 mg/dL.",
+      "Un electrocardiograma (ECG) que muestra hipertrofia del ventrículo izquierdo.",
+      "Un índice de masa corporal (IMC) de 28.",
+      "Antecedentes familiares de enfermedad cardiovascular."
+    ],
+    "respostaCorreta": "Un electrocardiograma (ECG) que muestra hipertrofia del ventrículo izquierdo.",
+    "explicacao": "La hipertrofia del ventrículo izquierdo, visible en un ECG, es una clara evidencia de que la hipertensión ya ha causado un daño estructural en el corazón (órgano diana), aunque el paciente no presente síntomas de insuficiencia cardíaca. Esto clasifica al paciente en un riesgo cardiovascular más alto."
+  },
+  {
+    "id": 18,
+    "area": "Obesidad",
+    "pergunta": "Una paciente tiene un IMC de 31 kg/m² y la mayor parte de su grasa corporal se acumula en caderas y muslos. ¿Cuál es la implicación clínica más importante de esta distribución de grasa (ginoide)?",
+    "opcoes": [
+      "Tiene un riesgo metabólico y cardiovascular significativamente mayor que la obesidad androide.",
+      "La grasa acumulada es metabólicamente más activa y fácil de eliminar con dieta.",
+      "Aunque el riesgo de diabetes es menor que en la obesidad androide, está más asociada a problemas de várices y vesícula biliar.",
+      "Indica una causa de obesidad secundaria, probablemente hormonal."
+    ],
+    "respostaCorreta": "Aunque el riesgo de diabetes es menor que en la obesidad androide, está más asociada a problemas de várices y vesícula biliar.",
+    "explicacao": "La obesidad ginoide ('tipo pera') tiene un menor riesgo metabólico (diabetes, HTA) en comparación con la androide ('manzana'), pero se asocia con otras comorbilidades como insuficiencia venosa (várices) y cálculos biliares. Además, esta grasa es menos activa y más difícil de movilizar."
+  },
+  {
+    "id": 19,
+    "area": "Diagnóstico de Diabetes",
+    "pergunta": "Un paciente asintomático de 45 años con obesidad presenta una glucemia en ayunas de 118 mg/dL. Una semana después, se realiza una HbA1c que resulta en 6.1%. ¿Cuál es el diagnóstico y el paso a seguir según los criterios de la ADA?",
+    "opcoes": [
+      "Diabetes Mellitus tipo 2; se debe iniciar tratamiento con metformina inmediatamente.",
+      "Paciente sano; los valores están por debajo del umbral diabético y se debe repetir en 3 años.",
+      "Prediabetes; se debe iniciar un plan intensivo de cambios en el estilo de vida y realizar seguimiento anual.",
+      "Los resultados son discordantes; se debe realizar una Prueba de Tolerancia Oral a la Glucosa (PTOG) para confirmar."
+    ],
+    "respostaCorreta": "Prediabetes; se debe iniciar un plan intensivo de cambios en el estilo de vida y realizar seguimiento anual.",
+    "explicacao": "Ambos resultados caen en el rango de prediabetes (Glucemia en ayunas: 100-125 mg/dL; HbA1c: 5.7-6.4%). Al ser consistentes, confirman el diagnóstico de prediabetes. La recomendación principal es la modificación del estilo de vida y un control anual, no el inicio inmediato de farmacoterapia en todos los casos."
+  },
+  {
+    "id": 20,
+    "area": "Glicemia Capilar",
+    "pergunta": "¿Por qué es crucial desechar la primera gota de sangre al realizar una medición de glicemia capilar?",
+    "opcoes": [
+      "Porque la primera gota no tiene suficiente volumen para la tira reactiva.",
+      "Para reducir el dolor de la punción en el paciente.",
+      "Porque puede estar contaminada con alcohol o líquido tisular, alterando la precisión del resultado.",
+      "Para asegurar que el glucómetro se calibre correctamente antes de la lectura."
+    ],
+    "respostaCorreta": "Porque puede estar contaminada con alcohol o líquido tisular, alterando la precisión del resultado.",
+    "explicacao": "La primera gota de sangre puede contener restos del desinfectante (alcohol) o estar diluida con líquido intersticial, lo que puede dar una lectura falsamente baja o errónea. Desecharla y usar la segunda gota asegura una muestra de sangre capilar pura y una medición más precisa."
+  },
+    {
+    "id": 21,
+    "area": "Tratamiento de Hipertensión",
+    "pergunta": "¿En qué situación clínica está absolutamente contraindicado el uso de fármacos IECA (Inhibidores de la Enzima Convertidora de Angiotensina) o ARA II (Antagonistas de los Receptores de Angiotensina II)?",
+    "opcoes": [
+      "En pacientes con Diabetes Mellitus tipo 2.",
+      "En pacientes con insuficiencia renal crónica.",
+      "En cualquier fase del embarazo.",
+      "En pacientes con hipertensión de bata blanca."
+    ],
+    "respostaCorreta": "En cualquier fase del embarazo.",
+    "explicacao": "Tanto los IECA como los ARA II están contraindicados durante todo el embarazo debido a su potencial toxicidad fetal, pudiendo causar malformaciones, insuficiencia renal neonatal y muerte. En las otras condiciones mencionadas, de hecho, suelen ser fármacos de elección o se usan con precaución."
+  },
+  {
+    "id": 22,
+    "area": "Recursos Humanos en Salud",
+    "pergunta": "¿Cuál es la frecuencia establecida para la actualización de la información en el Software de Registro de Recursos Humanos en Salud (SORHE) desde los establecimientos hasta el nivel nacional?",
+    "opcoes": [
+      "Anualmente, junto con el Módulo de Información Básica (MIB).",
+      "Semestralmente, para coincidir con la planificación de mitad de año.",
+      "Mensualmente, para un control estricto de la planilla.",
+      "Trimestralmente, para mantener una base de datos actualizada del personal."
+    ],
+    "respostaCorreta": "Trimestralmente, para mantener una base de datos actualizada del personal.",
+    "explicacao": "La presentación sobre Recursos Humanos especifica que la información debe ser actualizada cada tres meses (trimestralmente) en todos los niveles (establecimiento, red, SEDES) para ser consolidada por el SNIS-VE Nacional."
+  },
+  {
+    "id": 23,
+    "area": "Obesidad y Riesgo",
+    "pergunta": "Un paciente con un IMC de 38 kg/m² no tiene su perímetro abdominal medido, argumentando que no es necesario. ¿Por qué esta afirmación es correcta desde una perspectiva de estratificación del riesgo?",
+    "opcoes": [
+      "Porque el perímetro abdominal solo es útil en pacientes con sobrepeso.",
+      "Porque con un IMC ≥ 35 kg/m², el paciente ya se clasifica en un riesgo cardiovascular muy alto, y la medición del perímetro no añade mayor poder predictivo.",
+      "Porque la medición es técnicamente muy difícil en pacientes con obesidad mórbida.",
+      "Porque el IMC es una medida directa de la grasa visceral, haciendo innecesaria otra medición."
+    ],
+    "respostaCorreta": "Porque con un IMC ≥ 35 kg/m², el paciente ya se clasifica en un riesgo cardiovascular muy alto, y la medición del perímetro no añade mayor poder predictivo.",
+    "explicacao": "La presentación sobre obesidad indica que en pacientes con obesidad de clase II (IMC ≥ 35), el riesgo ya es tan elevado que medir el perímetro abdominal no aporta información adicional significativa para la estratificación del riesgo. El paciente ya requiere una intervención intensiva por su grado de obesidad."
+  },
+  {
+    "id": 24,
+    "area": "Complicaciones de Diabetes",
+    "pergunta": "La aparición de microalbuminuria en un análisis de orina de un paciente diabético es un signo temprano y predictivo de ¿cuál complicación microvascular específica?",
+    "opcoes": [
+      "Retinopatía diabética.",
+      "Neuropatía periférica.",
+      "Nefropatía diabética.",
+      "Enfermedad arterial periférica."
+    ],
+    "respostaCorreta": "Nefropatía diabética.",
+    "explicacao": "La microalbuminuria (pequeñas cantidades de albúmina en la orina) es uno de los primeros indicadores de que la diabetes está causando daño en los pequeños vasos sanguíneos de los riñones (glomérulos). Es un marcador clave para el diagnóstico temprano y la intervención en la nefropatía diabética."
+  },
+  {
+    "id": 25,
+    "area": "Hipertensión Arterial",
+    "pergunta": "Un paciente de 50 años presenta una PA normal-alta (135/88 mmHg). Sin embargo, tiene 3 factores de riesgo cardiovascular y un ECG que sugiere daño orgánico subclínico (DOS). Según la tabla de estratificación del riesgo, ¿cuál es su nivel de riesgo adicional?",
+    "opcoes": [
+      "Riesgo adicional bajo.",
+      "Riesgo adicional moderado.",
+      "Riesgo adicional alto.",
+      "Riesgo adicional muy alto."
+    ],
+    "respostaCorreta": "Riesgo adicional alto.",
+    "explicacao": "Según la tabla de la presentación, un paciente con PA normal-alta pero con '3 o más FR, DOS, SM o diabetes' se clasifica con un 'Riesgo adicional alto', lo que justifica un manejo más intensivo y la posible consideración de tratamiento farmacológico inmediato."
+  },
+  {
+    "id": 26,
+    "area": "Fisiopatología de Diabetes",
+    "pergunta": "Un paciente con Diabetes Tipo 1 reporta hiperglucemia al despertar (250 mg/dL). Para investigar la causa, se mide la glucosa a las 3:00 AM, obteniendo un valor de 60 mg/dL. ¿Qué fenómeno explica mejor este patrón?",
+    "opcoes": [
+      "Fenómeno del Alba (Dawn Phenomenon).",
+      "Efecto Somogyi.",
+      "Dosis insuficiente de insulina basal.",
+      "Una cena alta en carbohidratos."
+    ],
+    "respostaCorreta": "Efecto Somogyi.",
+    "explicacao": "El efecto Somogyi se caracteriza por una hipoglucemia nocturna (60 mg/dL a las 3 AM) que desencadena una respuesta hormonal de contrarregulación, resultando en una hiperglucemia de rebote por la mañana. El fenómeno del alba no presentaría hipoglucemia previa."
+  },
+  {
+    "id": 27,
+    "area": "Gerencia de RRHH",
+    "pergunta": "Un sistema de salud decide enfocar sus recursos en campañas masivas de vacunación y programas de saneamiento en áreas rurales, en lugar de construir más hospitales especializados en la capital. ¿Qué enfoque de organización de servicios está aplicando?",
+    "opcoes": [
+      "Enfoque por demanda.",
+      "Enfoque por necesidades de salud.",
+      "Enfoque curativo individualista.",
+      "Enfoque por rentabilidad financiera."
+    ],
+    "respostaCorreta": "Enfoque por necesidades de salud.",
+    "explicacao": "Este enfoque se basa en identificar los problemas prioritarios de una población (necesidades) para asignar recursos de forma proactiva, lo cual es más eficiente y equitativo que responder solo a la demanda de quienes ya acceden a los servicios."
+  },
+  {
+    "id": 28,
+    "area": "Obesidad",
+    "pergunta": "¿Cuál de los siguientes fármacos, utilizados para tratar trastornos del ánimo y epilepsia, está reconocido en las presentaciones como un inductor potencial de obesidad secundaria?",
+    "opcoes": [
+      "Fluoxetina.",
+      "Metformina.",
+      "Valproato.",
+      "Enalapril."
+    ],
+    "respostaCorreta": "Valproato.",
+    "explicacao": "La presentación sobre obesidad lista explícitamente al valproato (usado como anticomicial y estabilizador del ánimo) como un fármaco que puede inducir un aumento de peso significativo u obesidad."
+  },
+  {
+    "id": 29,
     "area": "Sistemas de Información",
-    "pergunta": "¿Cuál es el orden correcto del flujo de información consolidada del M.I.B., desde el nivel local hasta el nacional?",
+    "pergunta": "Al llenar el MIB, un establecimiento registra el tiempo promedio de viaje a pie y en vehículo a su centro de referencia. ¿En qué formulario específico se consigna esta información crucial para evaluar la accesibilidad geográfica?",
     "opcoes": [
-      "Establecimiento -> SEDES -> SNIS Central -> Red Municipal.",
-      "Establecimiento -> Red Municipal/de Servicios -> SEDES -> SNIS Central.",
-      "Red Municipal -> Establecimiento -> SNIS Central -> SEDES.",
-      "SEDES -> Establecimiento -> Red Municipal -> SNIS Central."
+      "Formulario 3: Datos de Morbilidad.",
+      "Formulario 4: Isócronas de la Red Funcional de Salud.",
+      "Formulario 7: Medios de Transporte.",
+      "Formulario 18: Referencia de Pacientes."
     ],
-    "respostaCorreta": "Establecimiento -> Red Municipal/de Servicios -> SEDES -> SNIS Central.",
-    "explicacao": "El ciclo de la información comienza en el establecimiento, es consolidado por la red, enviado al SEDES departamental y, finalmente, consolidado a nivel nacional por el SNIS Central."
+    "respostaCorreta": "Formulario 4: Isócronas de la Red Funcional de Salud.",
+    "explicacao": "El formulario de 'Isócronas' está específicamente diseñado para mapear y registrar los tiempos de desplazamiento hacia y desde los establecimientos, siendo una herramienta clave para analizar la accesibilidad real de la población a los servicios de salud."
   },
   {
-    "id": 5,
-    "area": "Instrumentos de Salud",
-    "pergunta": "¿El 'carnet de vacunación' y la 'historia clínica' se clasifican dentro del sistema M.I.B. como qué tipo de instrumento?",
+    "id": 30,
+    "area": "Factores de Riesgo",
+    "pergunta": "La exposición a la contaminación del aire en una ciudad afecta a todos sus habitantes, independientemente de su condición social, e influye en múltiples aspectos de su salud. ¿Qué características de los factores de riesgo se ejemplifican?",
     "opcoes": [
-      "Instrumentos de Sistematización.",
-      "Instrumentos de Capacitación.",
-      "Formularios de Datos Demográficos.",
-      "Informes de Gestión (Reportes)."
+      "Universal y Modificable.",
+      "Genético y Cultural.",
+      "Omnipresente y Universal.",
+      "Social y Biológico."
     ],
-    "respostaCorreta": "Instrumentos de Capacitación.",
-    "explicacao": "Instrumentos que capturan la información clínica y sociodemográfica de cada paciente, como el carnet de vacunación y la historia clínica, se consideran 'Instrumentos de Capacitación'."
-  },
-  {
-    "id": 6,
-    "area": "Salud Pública",
-    "pergunta": "Basado en la pirámide de niveles de atención de Bolivia presentada, ¿qué nivel concentra el mayor porcentaje (92%) de los establecimientos de salud?",
-    "opcoes": [
-      "Segundo Nivel",
-      "Tercer Nivel",
-      "Cuarto Nivel",
-      "Primer Nivel"
-    ],
-    "respostaCorreta": "Primer Nivel",
-    "explicacao": "La pirámide muestra que el 92% (3.656) de los establecimientos de salud en Bolivia corresponden al Primer Nivel de atención, que es la base del sistema de salud."
-  },
-  {
-    "id": 7,
-    "area": "Gestión en Salud",
-    "pergunta": "Para garantizar la calidad y relevancia de los datos, ¿qué se recomienda hacer con la información del M.I.B. a nivel comunitario?",
-    "opcoes": [
-      "Mantener la información estrictamente confidencial dentro del establecimiento.",
-      "Publicar los datos brutos en periódicos locales.",
-      "Consensuar la información con representantes de la comunidad (líderes, indígenas, etc.).",
-      "Enviar los datos directamente al nivel nacional sin validación local."
-    ],
-    "respostaCorreta": "Consensuar la información con representantes de la comunidad (líderes, indígenas, etc.).",
-    "explicacao": "Es recomendable consensuar la información con líderes locales, indígenas, originarios y otras organizaciones comunitarias para asegurar la precisión y utilidad de los datos."
-  },
-  {
-    "id": 8,
-    "area": "Sistemas de Información",
-    "pergunta": "¿Cuáles son los instrumentos de sistematización oficiales implementados por el SNIS y codificados como registros administrativos por el INE?",
-    "opcoes": [
-      "Las Historias Clínicas Electrónicas.",
-      "Los Softwares de Gestión Hospitalaria.",
-      "Los Cuadernos de Registro (Ej: Cuaderno Nº 1, 2, 3).",
-      "Los Carnets de Salud Familiar."
-    ],
-    "respostaCorreta": "Los Cuadernos de Registro (Ej: Cuaderno Nº 1, 2, 3).",
-    "explicacao": "Los 'cuadernos de registro' para consulta externa, atención infantil, control prenatal, etc., son los instrumentos oficiales de sistematización del SNIS."
-  },
-  {
-    "id": 9,
-    "area": "Epidemiología",
-    "pergunta": "'Isócronas de la Red Funcional de Salud' y 'Características de Riesgos Ambientales' son ejemplos de qué tipo de información recolectada?",
-    "opcoes": [
-      "Datos de Morbilidad y Mortalidad (CIE-10).",
-      "Datos de Recursos Físicos e Infraestructura.",
-      "Datos sobre acceso, geografía y riesgos comunitarios.",
-      "Datos sobre el Movimiento Económico del Establecimiento."
-    ],
-    "respostaCorreta": "Datos sobre acceso, geografía y riesgos comunitarios.",
-    "explicacao": "Estos son ejemplos de los múltiples formularios del M.I.B. que buscan entender el área de influencia del establecimiento, incluyendo el tiempo de desplazamiento y los riesgos ambientales."
-  },
-  {
-    "id": 10,
-    "area": "Sistemas de Información",
-    "pergunta": "¿Qué sucede con la información del M.I.B. en establecimientos que no poseen una computadora?",
-    "opcoes": [
-      "Están exentos de llenar el M.I.B.",
-      "El llenado se hace verbalmente por teléfono.",
-      "Deben enviar el instrumento manual llenado a la cabecera de la red para su introducción en el software.",
-      "Deben adquirir una computadora obligatoriamente para poder reportar."
-    ],
-    "respostaCorreta": "Deben enviar el instrumento manual llenado a la cabecera de la red para su introducción en el software.",
-    "explicacao": "El ciclo de la información prevé que los establecimientos sin computadora llenen el formulario manualmente y lo envíen a la coordinación de la red para su digitalización."
-  },
-  {
-    "id": 11,
-    "area": "Salud Pública",
-    "pergunta": "La consolidación de la información del M.I.B. a nivel de Red, SEDES y Nacional tiene como uno de sus principales objetivos la construcción de qué?",
-    "opcoes": [
-      "Un ranking de los mejores hospitales.",
-      "Perfiles epidemiológicos de cada región.",
-      "Un nuevo sistema de cobro de servicios.",
-      "Una plataforma de telemedicina."
-    ],
-    "respostaCorreta": "Perfiles epidemiológicos de cada región.",
-    "explicacao": "La recolección y consolidación de estos datos tiene un gran valor en la construcción de perfiles epidemiológicos regionales, que ayudan a orientar las políticas de salud pública."
-  },
-  {
-    "id": 12,
-    "area": "Gestión en Salud",
-    "pergunta": "¿El M.I.B. está diseñado para sistematizar qué tipo de información de los establecimientos de salud?",
-    "opcoes": [
-      "Solo información financiera y de recursos humanos.",
-      "Solo datos de morbilidad y mortalidad.",
-      "Información anual, tanto sectorial como extrasectorial.",
-      "Información en tiempo real sobre emergencias."
-    ],
-    "respostaCorreta": "Información anual, tanto sectorial como extrasectorial.",
-    "explicacao": "El módulo es integral, diseñado para sistematizar información anual que incluye datos del propio sector salud (sectorial) y de otros sectores que lo afectan (extrasectorial)."
+    "respostaCorreta": "Omnipresente y Universal.",
+    "explicacao": "Es 'Universal' porque afecta a toda la colectividad de la ciudad. Es 'Omnipresente' porque su influencia se extiende a diversos ámbitos de la salud del individuo (respiratorio, cardiovascular, etc.)."
   }
 ]
